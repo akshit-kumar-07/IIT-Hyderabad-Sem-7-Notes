@@ -1,0 +1,8084 @@
+[
+  {
+    "category": "title",
+    "label": "Boundary Value Problems for the Magnetic Laplacian",
+    "page": 1,
+    "bbox_abs": [
+      119.49,
+      113.79,
+      492.55,
+      131.0
+    ],
+    "bbox_norm": [
+      0.195245,
+      0.143671,
+      0.609571,
+      0.021737
+    ],
+    "snippet": "Boundary Value Problems for the Magnetic Laplacian"
+  },
+  {
+    "category": "author",
+    "label": "Zhongwei Shen",
+    "page": 1,
+    "bbox_abs": [
+      267.47,
+      169.96,
+      344.52,
+      181.92
+    ],
+    "bbox_norm": [
+      0.437039,
+      0.214593,
+      0.125901,
+      0.01511
+    ],
+    "snippet": "Zhongwei Shen"
+  },
+  {
+    "category": "abstract",
+    "label": "Abstract",
+    "page": 1,
+    "bbox_abs": [
+      99.27,
+      207.1,
+      512.78,
+      302.35
+    ],
+    "bbox_norm": [
+      0.162211,
+      0.261491,
+      0.67566,
+      0.120265
+    ],
+    "snippet": "Abstract This paper is concerned with the magnetic Laplacian Ph(A) = (hD + A)2in semiclassical analysis, where h is a semiclassical parameter. We study the L2Neumann and Dirichlet problems for the equation Ph(A)u = 0 in a bounded Lipschitz domain \u2126. Under the assumption that the magnetic field \u2207 \u00d7 A is of finite type on \u2126, we establish the nontangential maximal function estimates for (hD + A)u, which are uniform for 0 < h < h0. This extends a well-known result due to D. Jerison and C. Kenig for "
+  },
+  {
+    "category": "keywords",
+    "label": "Keywords",
+    "page": 1,
+    "bbox_abs": [
+      99.27,
+      308.78,
+      512.79,
+      318.74
+    ],
+    "bbox_norm": [
+      0.162211,
+      0.389873,
+      0.675675,
+      0.012579
+    ],
+    "snippet": "Keywords. Schr\u00a8odinger Operator; Magnetic Field; Semiclassical Analysis; Boundary Value Prob-"
+  },
+  {
+    "category": "classification",
+    "label": "MR Subject Classification",
+    "page": 1,
+    "bbox_abs": [
+      99.27,
+      337.13,
+      279.69,
+      347.09
+    ],
+    "bbox_norm": [
+      0.162211,
+      0.425663,
+      0.294798,
+      0.012579
+    ],
+    "snippet": "MR (2020) Subject Classification: 35P25."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.1)",
+    "page": 1,
+    "bbox_abs": [
+      517.58,
+      427.84,
+      539.99,
+      438.75
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.540207,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(1.1)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.2)",
+    "page": 1,
+    "bbox_abs": [
+      517.58,
+      503.37,
+      539.99,
+      514.28
+    ],
+    "bbox_norm": [
+      0.845713,
+      0.635563,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(1.2)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.3)",
+    "page": 1,
+    "bbox_abs": [
+      517.58,
+      561.66,
+      539.99,
+      572.57
+    ],
+    "bbox_norm": [
+      0.845713,
+      0.709169,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(1.3)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.4)",
+    "page": 1,
+    "bbox_abs": [
+      517.58,
+      624.66,
+      539.99,
+      635.57
+    ],
+    "bbox_norm": [
+      0.845713,
+      0.788711,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(1.4)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.5)",
+    "page": 1,
+    "bbox_abs": [
+      517.58,
+      678.39,
+      539.99,
+      689.3
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.856548,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(1.5)"
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 1.1",
+    "page": 2,
+    "bbox_abs": [
+      72.0,
+      72.79,
+      540.01,
+      297.67
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.091908,
+      0.764714,
+      0.283932
+    ],
+    "snippet": "Theorem 1.1. Let \u2126 be a bounded Lipschitz domain in Rd, d \u2265 2. Let A \u2208 C\u221e(\u2126; Rd). Suppose B is of finite type on \u2126. Then for any g \u2208 L2(\u2202\u2126, C), a solution u \u2208 H1(\u2126; C) to the Neumann problem (1.2) satisfies the nontangential maximal function estimate, \u2225(vh)\u2217\u2225L2(\u2202\u2126) \u2264 C\u2225g\u2225L2(\u2202\u2126) (1.6) for h \u2208 (0, h0), where vh(x) = |(hD + A)u(x)| + h m(x, h\u22121B)|u(x)|. Moreover, we have \u02c6 \u2126 m(x, h\u22121B)|vh(x)|2dx \u2264 C \u02c6 \u2202\u2126 |g|2. (1.7) The constants C in (1.6)-(1.7) and h0 depend only on \u2126, (\u03ba, c0) in (1.4), and \u2225B\u2225C\u03ba"
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 1.2",
+    "page": 2,
+    "bbox_abs": [
+      72.0,
+      309.27,
+      540.01,
+      471.18
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.390495,
+      0.764727,
+      0.204423
+    ],
+    "snippet": "Theorem 1.2. Assume that \u2126 and B satisfy the same conditions as in Theorem 1.1. Then for any f \u2208 H1(\u2202\u2126; C), a solution u \u2208 H1(\u2126; C) to the Dirichlet problem (1.3) satisfies the estimate, \u2225(vh)\u2217\u2225L2(\u2202\u2126) \u2264 C \ufffd \u2225Thf\u2225L2(\u2202\u2126) + h\u2225m(x, h\u22121B)f\u2225L2(\u2202\u2126) \ufffd (1.8) for h \u2208 (0, h0), where vh(x) = |(hD + A)u(x)| + h m(x, h\u22121B)|u(x)|. Moreover, we have \u02c6 \u2126 m(x, h\u22121B)|vh(x)|2dx \u2264 C \ufffd \u2225Thf\u22252 L2(\u2202\u2126)+ h2\u2225m(x, h\u22121B)f\u22252 L2(\u2202\u2126) \ufffd . (1.9) The constants C in (1.8)-(1.9) and h0 depend only on \u2126, (\u03ba, c0) in (1.4), and \u2225B\u2225C\u03ba+"
+  },
+  {
+    "category": "remark",
+    "label": "Remark 1.3",
+    "page": 2,
+    "bbox_abs": [
+      72.0,
+      482.51,
+      540.04,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.609228,
+      0.764777,
+      0.341044
+    ],
+    "snippet": "Remark 1.3. In the case A \u2261 0 in \u2126 and h = 1, the Neumann and Dirichlet problems (1.2) and (1.3) reduce to \u2206u = 0 in \u2126 and \u2202u \u2202n= g on \u2202\u2126, (1.10) and \u2206u = 0 in \u2126 and u = f on \u2202\u2126, (1.11) respectively. In this case, it was proved by D. Jerison and C. Kenig [4, 5] that the weak solutions in H1(\u2126) to (1.10) and (1.11) satisfy the nontangential maximal function estimates, \u2225(\u2207u)\u2217\u2225L2(\u2202\u2126) \u2264 C\u2225g\u2225L2(\u2202\u2126) and \u2225(\u2207u)\u2217\u2225L2(\u2202\u2126) \u2264 C\u2225f\u2225H1(\u2202\u2126), respectively, assuming that \u2126 is a bounded Lipschitz domain. Our main r"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.2)",
+    "page": 2,
+    "bbox_abs": [
+      72.0,
+      101.88,
+      397.65,
+      112.78
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.12863,
+      0.532102,
+      0.013774
+    ],
+    "snippet": "problem (1.2) satisfies the nontangential maximal function estimate,"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.6)",
+    "page": 2,
+    "bbox_abs": [
+      517.58,
+      126.38,
+      539.99,
+      137.29
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.159575,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(1.6)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.7)",
+    "page": 2,
+    "bbox_abs": [
+      517.58,
+      180.67,
+      539.99,
+      191.58
+    ],
+    "bbox_norm": [
+      0.845713,
+      0.22812,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(1.7)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.6)",
+    "page": 2,
+    "bbox_abs": [
+      72.0,
+      210.18,
+      503.5,
+      229.11
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.265378,
+      0.705062,
+      0.023898
+    ],
+    "snippet": "The constants C in (1.6)-(1.7) and h0 depend only on \u2126, (\u03ba, c0) in (1.4), and \u2225B\u2225C\u03ba+1(\u2126)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.3)",
+    "page": 2,
+    "bbox_abs": [
+      72.0,
+      320.97,
+      534.89,
+      341.48
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.405261,
+      0.756349,
+      0.025895
+    ],
+    "snippet": "any f \u2208 H1(\u2202\u2126; C), a solution u \u2208 H1(\u2126; C) to the Dirichlet problem (1.3) satisfies the estimate,"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.8)",
+    "page": 2,
+    "bbox_abs": [
+      517.58,
+      350.05,
+      539.99,
+      360.96
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.441981,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(1.8)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.9)",
+    "page": 2,
+    "bbox_abs": [
+      517.58,
+      407.97,
+      539.99,
+      418.88
+    ],
+    "bbox_norm": [
+      0.845711,
+      0.515114,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(1.9)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.8)",
+    "page": 2,
+    "bbox_abs": [
+      72.0,
+      437.48,
+      503.5,
+      456.4
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.552371,
+      0.705062,
+      0.023898
+    ],
+    "snippet": "The constants C in (1.8)-(1.9) and h0 depend only on \u2126, (\u03ba, c0) in (1.4), and \u2225B\u2225C\u03ba+1(\u2126)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.2)",
+    "page": 2,
+    "bbox_abs": [
+      72.0,
+      482.51,
+      540.03,
+      501.44
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.609228,
+      0.764756,
+      0.023898
+    ],
+    "snippet": "Remark 1.3. In the case A \u2261 0 in \u2126 and h = 1, the Neumann and Dirichlet problems (1.2) and"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.3)",
+    "page": 2,
+    "bbox_abs": [
+      72.0,
+      496.33,
+      142.34,
+      507.24
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.626681,
+      0.114938,
+      0.013774
+    ],
+    "snippet": "(1.3) reduce to"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.10)",
+    "page": 2,
+    "bbox_abs": [
+      512.12,
+      515.01,
+      539.99,
+      525.92
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.650265,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(1.10)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.11)",
+    "page": 2,
+    "bbox_abs": [
+      512.12,
+      551.09,
+      539.99,
+      562.0
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.695821,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(1.11)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.10)",
+    "page": 2,
+    "bbox_abs": [
+      72.0,
+      582.91,
+      473.02,
+      595.57
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.735997,
+      0.655258,
+      0.01599
+    ],
+    "snippet": "in H1(\u2126) to (1.10) and (1.11) satisfy the nontangential maximal function estimates,"
+  },
+  {
+    "category": "remark",
+    "label": "Remark 1.4",
+    "page": 3,
+    "bbox_abs": [
+      72.0,
+      74.78,
+      540.09,
+      359.63
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.094416,
+      0.764849,
+      0.359665
+    ],
+    "snippet": "Remark 1.4. The auxiliary function m(x, B) in Theorems 1.1 and 1.2 is defined by 1 m(x, B) = sup \ufffd r > 0 : sup B(x,r) |B| \u22641 r2 \ufffd , (1.12) where B(x, r) denotes the ball centered at x with radius r. This function, which was introduced by the present author in [9, 10], plays the role of a critical scaling in the study of Schr\u00a8odinger operators with electrical and magnetic potentials. See earlier work in [2, 12, 14] as well as references for more recent work in [7, 8]. Note that if B is a (matrix-"
+  },
+  {
+    "category": "remark",
+    "label": "Remark 1.5",
+    "page": 3,
+    "bbox_abs": [
+      72.0,
+      361.02,
+      540.0,
+      538.12
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.455829,
+      0.764705,
+      0.223618
+    ],
+    "snippet": "Remark 1.5. Consider the Dirichlet-to-Neumann map associated with the operator Ph(A), \u039bh: f \u2192 n \u00b7 (hD + A)u, where u is the solution of the Dirichlet problem (1.3). It follows from Theorems 1.1 and 1.2 that \u2225\u039bhf\u2225L2(\u2202\u2126) \u2248 \u2225Thf\u2225L2(\u2202\u2126) + h\u2225m(x, h\u22121B)f\u2225L2(\u2202\u2126) (1.13) for h \u2208 (0, h0). Note that Thf represents the tangential component of (hD + A)u on \u2202\u2126. In fact, our proof yields the weighted estimates, \u2225m(x, h\u22121B)\u2113\u039bhf\u2225L2(\u2202\u2126) \u2248 \u2225m(x, h\u22121B)\u2113Thf\u2225L2(\u2202\u2126) + h\u2225m(x, h\u22121B)\u2113+1f\u2225L2(\u2202\u2126) for any \u2113 \u2208 R (the boundin"
+  },
+  {
+    "category": "remark",
+    "label": "Remark 1.6",
+    "page": 3,
+    "bbox_abs": [
+      72.0,
+      539.41,
+      540.09,
+      620.75
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.681069,
+      0.764849,
+      0.102705
+    ],
+    "snippet": "Remark 1.6. Let u be a solution of the Dirichlet problem (1.3) with f \u2208 C(\u2202\u2126; C). Then \u2225(u)\u2217\u2225L2(\u2202\u2126) \u2264 C\u2225f\u2225L2(\u2202\u2126). (1.14) This follows readily from the maximum principle for subharmonic functions. No addition condition beyond A \u2208 C1(\u2126; Rd) is not needed. See Theorem 2.5."
+  },
+  {
+    "category": "remark",
+    "label": "Remark 1.7",
+    "page": 3,
+    "bbox_abs": [
+      72.0,
+      623.61,
+      539.99,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.787392,
+      0.764696,
+      0.16288
+    ],
+    "snippet": "Remark 1.7. Suppose B is of finite type on \u2202\u2126; i.e., the inequality (1.4) holds for any x \u2208 \u2202\u2126. By compactness it follows that (1.4) holds in a neighborhood of \u2202\u2126. In this case, the estimates (1.6) and (1.8) hold if one modifies the definition of the nontangential maximal function (u)\u2217by considering only points near \u2202\u2126, (u)\u2217(x) = sup \ufffd |u(y)| : y \u2208 \u2126, |y \u2212 x| < M0dist(y, \u2202\u2126) and dist(y, \u2202\u2126) < c \ufffd . This follows directly from the proofs of Theorems 1.1 and 1.2. 3"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.12)",
+    "page": 3,
+    "bbox_abs": [
+      512.12,
+      103.0,
+      539.99,
+      113.91
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.130055,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(1.12)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.3)",
+    "page": 3,
+    "bbox_abs": [
+      72.0,
+      410.05,
+      533.68,
+      420.96
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.517745,
+      0.754376,
+      0.013774
+    ],
+    "snippet": "where u is the solution of the Dirichlet problem (1.3). It follows from Theorems 1.1 and 1.2 that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.13)",
+    "page": 3,
+    "bbox_abs": [
+      512.12,
+      433.7,
+      539.99,
+      444.61
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.547596,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(1.13)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.3)",
+    "page": 3,
+    "bbox_abs": [
+      72.0,
+      539.41,
+      505.06,
+      559.92
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.681069,
+      0.707606,
+      0.025895
+    ],
+    "snippet": "Remark 1.6. Let u be a solution of the Dirichlet problem (1.3) with f \u2208 C(\u2202\u2126; C). Then"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.14)",
+    "page": 3,
+    "bbox_abs": [
+      512.12,
+      564.9,
+      539.99,
+      575.81
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.713262,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(1.14)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.4)",
+    "page": 3,
+    "bbox_abs": [
+      72.0,
+      623.61,
+      539.99,
+      642.54
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.787392,
+      0.764688,
+      0.023898
+    ],
+    "snippet": "Remark 1.7. Suppose B is of finite type on \u2202\u2126; i.e., the inequality (1.4) holds for any x \u2208 \u2202\u2126."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.4)",
+    "page": 3,
+    "bbox_abs": [
+      72.0,
+      637.44,
+      539.97,
+      648.35
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.804844,
+      0.764665,
+      0.013774
+    ],
+    "snippet": "By compactness it follows that (1.4) holds in a neighborhood of \u2202\u2126. In this case, the estimates"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.6)",
+    "page": 3,
+    "bbox_abs": [
+      72.0,
+      649.0,
+      539.99,
+      662.82
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.819445,
+      0.764696,
+      0.01745
+    ],
+    "snippet": "(1.6) and (1.8) hold if one modifies the definition of the nontangential maximal function (u)\u2217by"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.15)",
+    "page": 4,
+    "bbox_abs": [
+      512.12,
+      146.46,
+      539.99,
+      157.36
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.184918,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(1.15)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.16)",
+    "page": 4,
+    "bbox_abs": [
+      512.12,
+      188.66,
+      539.99,
+      199.57
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.238205,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(1.16)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.15)",
+    "page": 4,
+    "bbox_abs": [
+      72.0,
+      218.49,
+      540.05,
+      239.06
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.275877,
+      0.764781,
+      0.025964
+    ],
+    "snippet": "for any x0 \u2208 \u2126. Note that when B is replaced by \u03b2B, the condition (1.15) remains invariant, while"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.16)",
+    "page": 4,
+    "bbox_abs": [
+      72.0,
+      232.32,
+      540.04,
+      243.23
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.293328,
+      0.764766,
+      0.013774
+    ],
+    "snippet": "(1.16) is satisfied for \u03b2 sufficiently large. Moreover, under the conditions (1.15)-(1.16), it is proved"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.17)",
+    "page": 4,
+    "bbox_abs": [
+      512.12,
+      264.44,
+      539.99,
+      275.35
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.333887,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(1.17)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.13)",
+    "page": 4,
+    "bbox_abs": [
+      72.0,
+      359.18,
+      289.39,
+      370.09
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.453515,
+      0.355215,
+      0.013774
+    ],
+    "snippet": "(1.13) with h = 1 is reduced to the estimates,"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.18)",
+    "page": 4,
+    "bbox_abs": [
+      512.12,
+      403.33,
+      539.99,
+      414.24
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.509252,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(1.18)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.18)",
+    "page": 4,
+    "bbox_abs": [
+      72.0,
+      447.47,
+      539.99,
+      459.36
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.564988,
+      0.764689,
+      0.015007
+    ],
+    "snippet": "To establish (1.18), we study the Green function GA(x, y) and the Neumann function NA(x, y)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.17)",
+    "page": 4,
+    "bbox_abs": [
+      72.0,
+      474.57,
+      496.54,
+      485.48
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.599202,
+      0.693691,
+      0.013774
+    ],
+    "snippet": "descending). Using (1.17), we are able to show that under the assumptions (1.15)-(1.16),"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.19)",
+    "page": 4,
+    "bbox_abs": [
+      512.12,
+      519.02,
+      539.99,
+      529.93
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.655327,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(1.19)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.18)",
+    "page": 4,
+    "bbox_abs": [
+      72.0,
+      563.2,
+      540.01,
+      582.12
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.711107,
+      0.764728,
+      0.023898
+    ],
+    "snippet": "for any \u2113 \u2265 0 and x, y \u2208 \u2126. See Sections 5 and 6. The estimates in (1.18) follow from (1.19) by"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.13)",
+    "page": 4,
+    "bbox_abs": [
+      88.94,
+      590.57,
+      540.04,
+      601.48
+    ],
+    "bbox_norm": [
+      0.14532,
+      0.745667,
+      0.737095,
+      0.013774
+    ],
+    "snippet": "Finally, with the Rellich estimates (1.13) at our disposal, we establish the nontangential maximal"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.6)",
+    "page": 4,
+    "bbox_abs": [
+      72.0,
+      604.12,
+      540.05,
+      615.03
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.762774,
+      0.764795,
+      0.013774
+    ],
+    "snippet": "function estimates (1.6) and (1.8) with the help of (1.14). A key observation here is that although"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.18)",
+    "page": 4,
+    "bbox_abs": [
+      72.0,
+      692.5,
+      540.01,
+      711.42
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.874363,
+      0.764723,
+      0.023898
+    ],
+    "snippet": "if B(x, r) \u2282 \u2126. See Section 4. This allows us to use the techniques developed for (1.18) to control"
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 2.3",
+    "page": 5,
+    "bbox_abs": [
+      72.0,
+      638.9,
+      539.99,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.806694,
+      0.764696,
+      0.143578
+    ],
+    "snippet": "Theorem 2.3. Let u \u2208 C2(B(x0, 2r); C) be a solution of (D + A)2u = F in B(x0, 2r). Then \ufffd B(x0,r) |u|q \ufffd1/q \u2264 C B(x0,2r) |u| + Cr2 \ufffd B(x0,2r) |F|p \ufffd1/p , (2.8) where 2 \u2264 p < q \u2264 \u221e and1 p\u2212 1 q< 2 d. The constant C depends only on d, p and q, 5"
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 2.1",
+    "page": 5,
+    "bbox_abs": [
+      72.0,
+      111.79,
+      539.99,
+      334.82
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.141152,
+      0.764696,
+      0.281606
+    ],
+    "snippet": "Lemma 2.1. Let \u03b5 > 0 and u\u03b5 = \ufffd |u|2+ \u03b52. Then for u \u2208 C1(\u2126; C), |\u2207u\u03b5| \u2264 |(\u2207 + iA)u|, (2.1) and for u \u2208 C2(\u2126; C), u\u03b5\u2206u\u03b5 \u2265 \u211c \ufffd (\u2207 + iA)2u \u00b7 u \ufffd . (2.2) Proof. By differentiating u2 \u03b5= |u|2 + \u03b52, we obtain u\u03b5\u2202ju\u03b5 = \u211c{(\u2202j + iAj)u \u00b7 u} (2.3) for 1 \u2264 j \u2264 d. Hence, u\u03b5|\u2207u\u03b5| \u2264 |(\u2207 + iA)u||u|. Since |u| \u2264 u\u03b5, this yields (2.1). Next, by differentiating (2.3), we see that |\u2207u\u03b5|2+ u\u03b5\u2206u\u03b5 = \u211c{(\u2207 + iA)2u \u00b7 u} + |(\u2207 + iA)u|2, (2.4) which, together with (2.1) and |u| \u2264 u\u03b5, leads to (2.2)."
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 2.2",
+    "page": 5,
+    "bbox_abs": [
+      72.0,
+      336.78,
+      540.01,
+      629.2
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.425233,
+      0.764717,
+      0.369207
+    ],
+    "snippet": "Lemma 2.2. Let u \u2208 H1 0(\u2126; C). Then \ufffd\u02c6 \u2126 |u|pd \ufffd1/pd \u2264 C \ufffd\u02c6 \u2126 |(D + A)u|2 \ufffd1/2 , (2.5) where pd = 2d d\u22122for d \u2265 3, 2 < pd < \u221e for d = 2, and C depends only on \u2126 and pd. Furthermore, if u \u2208 H1(\u2126; C), then \ufffd\u02c6 \u2126 |u|pd \ufffd1/pd \u2264 C \ufffd\u02c6 \u2126 |(D + A)u|2 \ufffd1/2 + C \ufffd\u02c6 \u2126 |u|2 \ufffd1/2 , (2.6) and \u02c6 \u2202\u2126 |u|2\u2264 C \u02c6 \u2126 |(D + A)u|2+ C \u02c6 \u2126 |u|2. (2.7) Proof. Let v\u03b5 = \ufffd |u|2+ \u03b52\u2212 \u03b5, where \u03b5 > 0. It follows from (2.1) that |\u2207v\u03b5| \u2264 |(D + A)u|. Since v\u03b5 \u2208 H1 0(\u2126; R), by Sobolev inequality, \ufffd\u02c6 \u2126 |v\u03b5|pd \ufffd1/pd \u2264 C \ufffd\u02c6 \u2126 |\u2207v\u03b5|2 \ufffd1/"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.1)",
+    "page": 5,
+    "bbox_abs": [
+      517.58,
+      145.64,
+      539.99,
+      156.55
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.183892,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(2.1)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.2)",
+    "page": 5,
+    "bbox_abs": [
+      517.58,
+      183.42,
+      539.99,
+      194.33
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.231591,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(2.2)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.3)",
+    "page": 5,
+    "bbox_abs": [
+      517.58,
+      229.93,
+      539.99,
+      240.84
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.290318,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(2.3)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.1)",
+    "page": 5,
+    "bbox_abs": [
+      72.0,
+      253.89,
+      455.07,
+      272.82
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.320567,
+      0.625934,
+      0.023898
+    ],
+    "snippet": "for 1 \u2264 j \u2264 d. Hence, u\u03b5|\u2207u\u03b5| \u2264 |(\u2207 + iA)u||u|. Since |u| \u2264 u\u03b5, this yields (2.1)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.3)",
+    "page": 5,
+    "bbox_abs": [
+      88.94,
+      267.71,
+      287.06,
+      278.62
+    ],
+    "bbox_norm": [
+      0.145322,
+      0.338019,
+      0.323726,
+      0.013774
+    ],
+    "snippet": "Next, by differentiating (2.3), we see that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.4)",
+    "page": 5,
+    "bbox_abs": [
+      517.58,
+      291.94,
+      539.99,
+      302.85
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.368611,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(2.4)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.1)",
+    "page": 5,
+    "bbox_abs": [
+      72.0,
+      315.9,
+      331.71,
+      334.82
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.398859,
+      0.42437,
+      0.023898
+    ],
+    "snippet": "which, together with (2.1) and |u| \u2264 u\u03b5, leads to (2.2)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.5)",
+    "page": 5,
+    "bbox_abs": [
+      517.58,
+      371.88,
+      539.99,
+      382.79
+    ],
+    "bbox_norm": [
+      0.845713,
+      0.469544,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(2.5)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.6)",
+    "page": 5,
+    "bbox_abs": [
+      517.58,
+      451.48,
+      539.99,
+      462.39
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.570047,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(2.6)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.7)",
+    "page": 5,
+    "bbox_abs": [
+      517.58,
+      496.94,
+      539.99,
+      507.85
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.627447,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(2.7)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.1)",
+    "page": 5,
+    "bbox_abs": [
+      161.06,
+      525.87,
+      540.0,
+      545.47
+    ],
+    "bbox_norm": [
+      0.263175,
+      0.663973,
+      0.619183,
+      0.024749
+    ],
+    "snippet": "|u|2+ \u03b52\u2212 \u03b5, where \u03b5 > 0. It follows from (2.1) that |\u2207v\u03b5| \u2264 |(D + A)u|. Since"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.5)",
+    "page": 5,
+    "bbox_abs": [
+      72.0,
+      602.98,
+      275.43,
+      623.39
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.761343,
+      0.332401,
+      0.025769
+    ],
+    "snippet": "By letting \u03b5 \u2192 0, we obtain (2.5) for u \u2208 C1"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.5)",
+    "page": 5,
+    "bbox_abs": [
+      270.42,
+      602.88,
+      507.38,
+      623.39
+    ],
+    "bbox_norm": [
+      0.441858,
+      0.761217,
+      0.387193,
+      0.025895
+    ],
+    "snippet": "0(\u2126, C). A density argument gives (2.5) for u \u2208 H1"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.6)",
+    "page": 5,
+    "bbox_abs": [
+      72.0,
+      618.29,
+      270.75,
+      629.2
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.780666,
+      0.32476,
+      0.013774
+    ],
+    "snippet": "The proofs for (2.6) and (2.7) are similar."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.8)",
+    "page": 5,
+    "bbox_abs": [
+      517.58,
+      677.07,
+      539.99,
+      687.98
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.854892,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(2.8)"
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 2.5",
+    "page": 6,
+    "bbox_abs": [
+      72.0,
+      505.54,
+      540.02,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.638308,
+      0.764732,
+      0.311964
+    ],
+    "snippet": "Theorem 2.5. Let \u2126 be a bounded Lipschitz domain and A \u2208 C1(\u2126; Rd). Let u \u2208 C2(\u2126; C) \u2229 C(\u2126; C) be a solution of the Dirichlet problem (2.9). Then \u2225(u)\u2217\u2225Lp(\u2202\u2126) \u2264 C\u2225f\u2225Lp(\u2202\u2126) (2.10) for 2 \u2212 \u03b4 < p \u2264 \u221e, where \u03b4 > 0 depends on \u2126. The constant C in (2.10) depends only on d, p, the Lipschitz character of \u2126. If \u2126 is C1, the estimate (2.10) holds for 1 < p \u2264 \u221e. Proof. By Lemma 2.4, we see that (u)\u2217\u2264 (v)\u2217on \u2202\u2126, where v is a harmonic function in \u2126 such that v = |f| on \u2202\u2126. As a consequence, the estimate (2.1"
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 2.4",
+    "page": 6,
+    "bbox_abs": [
+      72.0,
+      294.13,
+      540.0,
+      505.17
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.371381,
+      0.764705,
+      0.26646
+    ],
+    "snippet": "Lemma 2.4. Let u \u2208 C2(\u2126; C) \u2229 C(\u2126; C) be a solution of the Dirichlet problem, (D + A)2u = 0 in \u2126 and u = f on \u2202\u2126, (2.9) where f \u2208 C(\u2202\u2126; C). Then |u| \u2264 v in \u2126, where v is harmonic in \u2126 and v = |f| on \u2202\u2126. Proof. Let \u03b5 > 0 and w\u03b5 = u\u03b5\u2212v, where u\u03b5 = \ufffd |u|2+ \u03b52. It follows from (2.2) that \u2206w\u03b5 = \u2206u\u03b5 \u2265 0 in \u2126. Thus, w\u03b5 is subharmonic in \u2126. Note that w\u03b5 = \ufffd |f|2+ \u03b52\u2212 |f| \u2264 \u03b5 in \u2202\u2126. By the maximum principle for subharmonic functions, this implies that max \u2126 w\u03b5 = max \u2202\u2126w\u03b5 \u2264 \u03b5. Hence, u\u03b5 \u2264 v + \u03b5 in \u2126. By l"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.2)",
+    "page": 6,
+    "bbox_abs": [
+      72.0,
+      88.05,
+      365.54,
+      108.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.111179,
+      0.479638,
+      0.025964
+    ],
+    "snippet": "By (2.2), we have \u2206u\u03b5 \u2265 \u2212|F| in B(x0, 2r). By differentiating"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.8)",
+    "page": 6,
+    "bbox_abs": [
+      72.0,
+      273.2,
+      389.01,
+      292.13
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.344949,
+      0.517997,
+      0.023898
+    ],
+    "snippet": "for any y \u2208 B(x0, r). This yields (2.8) by using Young\u2019s inequality."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.9)",
+    "page": 6,
+    "bbox_abs": [
+      517.58,
+      320.5,
+      539.99,
+      331.41
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.404667,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(2.9)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.2)",
+    "page": 6,
+    "bbox_abs": [
+      298.19,
+      366.57,
+      540.0,
+      387.81
+    ],
+    "bbox_norm": [
+      0.487242,
+      0.462844,
+      0.39511,
+      0.026816
+    ],
+    "snippet": "|u|2+ \u03b52. It follows from (2.2) that \u2206w\u03b5 = \u2206u\u03b5 \u2265 0"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.9)",
+    "page": 6,
+    "bbox_abs": [
+      72.0,
+      519.09,
+      351.1,
+      533.71
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.655415,
+      0.456041,
+      0.018457
+    ],
+    "snippet": "C(\u2126; C) be a solution of the Dirichlet problem (2.9). Then"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.10)",
+    "page": 6,
+    "bbox_abs": [
+      512.12,
+      545.45,
+      539.99,
+      556.36
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.688701,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(2.10)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.10)",
+    "page": 6,
+    "bbox_abs": [
+      72.0,
+      569.69,
+      540.0,
+      588.61
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.719301,
+      0.764703,
+      0.023898
+    ],
+    "snippet": "for 2 \u2212 \u03b4 < p \u2264 \u221e, where \u03b4 > 0 depends on \u2126. The constant C in (2.10) depends only on d, p, the"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.10)",
+    "page": 6,
+    "bbox_abs": [
+      72.0,
+      581.75,
+      444.47,
+      602.16
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.734538,
+      0.60861,
+      0.025769
+    ],
+    "snippet": "Lipschitz character of \u2126. If \u2126 is C1, the estimate (2.10) holds for 1 < p \u2264 \u221e."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.10)",
+    "page": 6,
+    "bbox_abs": [
+      72.0,
+      619.3,
+      539.99,
+      638.23
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.781945,
+      0.764689,
+      0.023898
+    ],
+    "snippet": "that v = |f| on \u2202\u2126. As a consequence, the estimate (2.10) follows from the well-known results for"
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 3.1",
+    "page": 7,
+    "bbox_abs": [
+      72.0,
+      573.39,
+      540.0,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.723982,
+      0.764699,
+      0.22629
+    ],
+    "snippet": "Lemma 3.1. Suppose B satisfies (3.2) for any ball B(x, r) \u2282 B(0, 4R0). Also assume that (3.6) holds for any x \u2208 B(0, R0). Then, |B(x)|1/2+ |\u2207B(x)|1/3\u2264 Cm(x, B) (3.7) for any x \u2208 B(0, R0). Moreover, for any x, y \u2208 B(0, R0), m(y, B) \u2264 C {1 + |x \u2212 y|m(x, B)}\u03ba0m(x, B), (3.8) m(y, B) \u2265 c m(x, B) {1 + |x \u2212 y|m(x, B)} \u03ba0 \u03ba0+1 . (3.9) The constants C, c, \u03ba0 > 0 depend only on C0 in (3.2). 7"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.1)",
+    "page": 7,
+    "bbox_abs": [
+      517.57,
+      137.23,
+      539.99,
+      148.13
+    ],
+    "bbox_norm": [
+      0.845707,
+      0.173264,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(3.1)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 7,
+    "bbox_abs": [
+      517.58,
+      282.98,
+      539.99,
+      293.89
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.357301,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(3.2)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 7,
+    "bbox_abs": [
+      72.0,
+      313.77,
+      349.48,
+      332.7
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.396176,
+      0.453401,
+      0.023898
+    ],
+    "snippet": "for any ball B(x, r) \u2282 B(0, 4R0). It follows from (3.2) that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.3)",
+    "page": 7,
+    "bbox_abs": [
+      517.58,
+      341.5,
+      539.99,
+      352.41
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.431187,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(3.3)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.4)",
+    "page": 7,
+    "bbox_abs": [
+      517.58,
+      401.55,
+      539.99,
+      412.46
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.507013,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(3.4)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.3)",
+    "page": 7,
+    "bbox_abs": [
+      72.0,
+      425.79,
+      539.99,
+      444.72
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.537613,
+      0.764695,
+      0.023898
+    ],
+    "snippet": "for any 2B \u2282 B(0, 4R0), where C depends only on d and C1 in (3.3). As a consequence, we also"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.5)",
+    "page": 7,
+    "bbox_abs": [
+      517.58,
+      455.46,
+      539.99,
+      466.37
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.575071,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(3.5)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.12)",
+    "page": 7,
+    "bbox_abs": [
+      88.94,
+      496.35,
+      539.99,
+      515.28
+    ],
+    "bbox_norm": [
+      0.145322,
+      0.626704,
+      0.737019,
+      0.023898
+    ],
+    "snippet": "For x \u2208 B(0, R0), let m(x, B) be defined by (1.12). Under the assumption that for any x \u2208"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.6)",
+    "page": 7,
+    "bbox_abs": [
+      517.58,
+      523.72,
+      539.99,
+      534.63
+    ],
+    "bbox_norm": [
+      0.845713,
+      0.661264,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(3.6)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 7,
+    "bbox_abs": [
+      72.0,
+      573.39,
+      539.99,
+      592.32
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.723982,
+      0.764696,
+      0.023898
+    ],
+    "snippet": "Lemma 3.1. Suppose B satisfies (3.2) for any ball B(x, r) \u2282 B(0, 4R0). Also assume that (3.6)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.7)",
+    "page": 7,
+    "bbox_abs": [
+      517.58,
+      609.65,
+      540.0,
+      620.56
+    ],
+    "bbox_norm": [
+      0.845715,
+      0.769758,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(3.7)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.8)",
+    "page": 7,
+    "bbox_abs": [
+      517.58,
+      654.52,
+      539.99,
+      665.42
+    ],
+    "bbox_norm": [
+      0.845713,
+      0.826408,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(3.8)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.9)",
+    "page": 7,
+    "bbox_abs": [
+      517.58,
+      682.68,
+      539.99,
+      693.59
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.861975,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(3.9)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 7,
+    "bbox_abs": [
+      72.0,
+      711.82,
+      331.53,
+      724.36
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.89876,
+      0.424066,
+      0.01584
+    ],
+    "snippet": "The constants C, c, \u03ba0 > 0 depend only on C0 in (3.2)."
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 3.2",
+    "page": 8,
+    "bbox_abs": [
+      72.0,
+      351.61,
+      540.02,
+      536.58
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.44395,
+      0.76474,
+      0.233553
+    ],
+    "snippet": "Theorem 3.2. Suppose B satisfies (3.2) for any ball B(x, r) \u2282 B(0, 4R0). Also assume that (3.6) holds for any x \u2208 B(0, R0). Then c \u02c6 \u2126 {m(x, B)}2|\u03c8|2dx \u2264 \u02c6 \u2126 |(D + A)\u03c8|2dx (3.12) for any \u03c8 \u2208 C1(\u2126; C), where c > 0 depends only on C0 in (3.2) and the Lipschitz character of \u2126. Proof. See [8, Theorem 3.8]. We point out that the proof in [8] only uses the fact B = \u2207 \u00d7 A in \u2126. Outside of \u2126, there is no need to assume that B is a curl of some vector field. This observation allows us to extend B to a ne"
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 3.3",
+    "page": 8,
+    "bbox_abs": [
+      72.0,
+      547.92,
+      540.0,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.691812,
+      0.764706,
+      0.258459
+    ],
+    "snippet": "Lemma 3.3. Let x0 \u2208 \u2126 and 0 < r < r0, where either x0 \u2208 \u2202\u2126 or B(x0, r) \u2282 \u2126. Suppose that u \u2208 H1(B(x0, r) \u2229 \u2126; C) and (D + A)2u = F in B(x0, r) \u2229 \u2126, where F \u2208 L2(B(x0, r) \u2229 \u2126; C). If x0 \u2208 \u2202\u2126, we also assume that either u = 0 or n \u00b7 (D + A)u = 0 on B(x0, r) \u2229 \u2202\u2126, where n denotes the outward unit normal to \u2202\u2126. Then for 0 < s < t < 1, \u02c6 B(x0,sr)\u2229\u2126 |(D + A)u|2\u2264 C (t \u2212 s)2r2 \u02c6 B(x0,tr)\u2229\u2126 |u|2+ Cr2 \u02c6 B(x0,tr)\u2229\u2126 |F|2, (3.13) where C depends only on d. Proof. The proof is similar to the case of A \u2261 0. Us"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.6)",
+    "page": 8,
+    "bbox_abs": [
+      72.0,
+      72.79,
+      391.33,
+      93.43
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.091908,
+      0.521776,
+      0.026061
+    ],
+    "snippet": "Proof. Let r = {m(x, B)}\u22121. Using (3.6), it is not hard to see that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.10)",
+    "page": 8,
+    "bbox_abs": [
+      512.12,
+      99.29,
+      539.99,
+      110.19
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.12536,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(3.10)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 8,
+    "bbox_abs": [
+      72.0,
+      131.35,
+      415.65,
+      151.99
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.165846,
+      0.561518,
+      0.026061
+    ],
+    "snippet": "This implies that |B(x)| \u2264 r\u22122= {m(x, B)}2. Also, by (3.2) and (3.10),"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.7)",
+    "page": 8,
+    "bbox_abs": [
+      72.0,
+      182.35,
+      232.79,
+      193.26
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.230243,
+      0.262728,
+      0.013774
+    ],
+    "snippet": "As a result, we have proved (3.7)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.8)",
+    "page": 8,
+    "bbox_abs": [
+      88.94,
+      194.05,
+      540.01,
+      214.56
+    ],
+    "bbox_norm": [
+      0.14532,
+      0.245008,
+      0.737042,
+      0.025895
+    ],
+    "snippet": "The inequalities (3.8)-(3.9) were proved by the present author in [10] for any x, y \u2208 Rd, under"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.8)",
+    "page": 8,
+    "bbox_abs": [
+      72.0,
+      222.73,
+      539.99,
+      241.65
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.281222,
+      0.764697,
+      0.023898
+    ],
+    "snippet": "the same argument gives (3.8)-(3.9) for any x, y \u2208 B(0, R0). Note that the estimates (3.7)-(3.8) are"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.8)",
+    "page": 8,
+    "bbox_abs": [
+      88.94,
+      259.06,
+      270.59,
+      269.97
+    ],
+    "bbox_norm": [
+      0.14532,
+      0.327101,
+      0.296827,
+      0.013774
+    ],
+    "snippet": "It follows readily from (3.8)-(3.9) that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.11)",
+    "page": 8,
+    "bbox_abs": [
+      512.12,
+      294.22,
+      539.99,
+      305.12
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.371484,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(3.11)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 8,
+    "bbox_abs": [
+      72.0,
+      351.61,
+      539.99,
+      370.54
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.44395,
+      0.764696,
+      0.023898
+    ],
+    "snippet": "Theorem 3.2. Suppose B satisfies (3.2) for any ball B(x, r) \u2282 B(0, 4R0). Also assume that (3.6)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.12)",
+    "page": 8,
+    "bbox_abs": [
+      512.12,
+      394.96,
+      539.99,
+      405.87
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.498688,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(3.12)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 8,
+    "bbox_abs": [
+      72.0,
+      424.59,
+      534.68,
+      445.1
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.536099,
+      0.75602,
+      0.025895
+    ],
+    "snippet": "for any \u03c8 \u2208 C1(\u2126; C), where c > 0 depends only on C0 in (3.2) and the Lipschitz character of \u2126."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.13)",
+    "page": 8,
+    "bbox_abs": [
+      512.12,
+      617.76,
+      539.99,
+      628.67
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.780001,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(3.13)"
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 3.5",
+    "page": 9,
+    "bbox_abs": [
+      72.0,
+      298.05,
+      540.01,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.376331,
+      0.764726,
+      0.573941
+    ],
+    "snippet": "Theorem 3.5. Suppose Bsatisfies the same conditions as in Theorem 3.2. Let x0 \u2208 \u2126 and 0 < r < r0, where either x0 \u2208 \u2202\u2126 or B(x0, r) \u2282 \u2126. Suppose u \u2208 H1(B(x0, r) \u2229 \u2126; C) and (D + A)2u = 0 in B(x0, r) \u2229 \u2126. If x0 \u2208 \u2202\u2126, we also assume that either u = 0 on B(x0, r) \u2229 \u2202\u2126 or n \u00b7 (D + A)u = 0 on B(x0, r) \u2229 \u2202\u2126. Then \u02c6 B(x0,r/2)\u2229\u2126 |u|2\u2264 C\u2113 {1 + rm(x0, B)}\u2113 \u02c6 B(x0,r)\u2229\u2126 |u|2 (3.16) for any \u2113 \u2265 1, where C\u2113 depends on \u2113, the Lipschitz character of \u2126, and C0 in (3.2). Proof. We may assume rm(x0, B) > 10 for oth"
+  },
+  {
+    "category": "remark",
+    "label": "Remark 3.4",
+    "page": 9,
+    "bbox_abs": [
+      72.0,
+      168.74,
+      539.99,
+      286.72
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.21306,
+      0.764696,
+      0.148962
+    ],
+    "snippet": "Remark 3.4. Let x0 \u2208 \u2202\u2126 and 0 < r < r0. Suppose that u \u2208 C2(B(x0, r) \u2229 \u2126; C) and (D+A)2u = F in B(x0, r) \u2229 \u2126. It follows from the proof of Lemma 3.3 that \u02c6 B(x0,r/2)\u2229\u2126 |(D + A)u|2\u2264C r2 \u02c6 B(x0,r)\u2229\u2126 |u|2+ Cr2 \u02c6 B(x0,r)\u2229\u2126 |F|2 + C \u02c6 B(x0,r)\u2229\u2202\u2126 |n \u00b7 (D + A)u||u|, (3.15) where C depends only on d."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.14)",
+    "page": 9,
+    "bbox_abs": [
+      512.12,
+      104.5,
+      539.99,
+      115.41
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.13195,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(3.14)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.15)",
+    "page": 9,
+    "bbox_abs": [
+      512.12,
+      230.28,
+      539.99,
+      241.19
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.29076,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(3.15)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.16)",
+    "page": 9,
+    "bbox_abs": [
+      512.12,
+      368.51,
+      539.99,
+      379.42
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.465286,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(3.16)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 9,
+    "bbox_abs": [
+      72.0,
+      400.26,
+      474.47,
+      419.18
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.505373,
+      0.657638,
+      0.023898
+    ],
+    "snippet": "for any \u2113 \u2265 1, where C\u2113 depends on \u2113, the Lipschitz character of \u2126, and C0 in (3.2)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.12)",
+    "page": 9,
+    "bbox_abs": [
+      72.0,
+      434.74,
+      229.68,
+      449.36
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.548911,
+      0.257645,
+      0.018457
+    ],
+    "snippet": "\u2126; R). It follows from (3.12) that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.17)",
+    "page": 9,
+    "bbox_abs": [
+      512.12,
+      480.74,
+      539.99,
+      491.64
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.606989,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(3.17)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.14)",
+    "page": 9,
+    "bbox_abs": [
+      72.0,
+      524.88,
+      324.63,
+      535.79
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.662726,
+      0.412799,
+      0.013774
+    ],
+    "snippet": "where we have used (3.14) for the last inequality."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.17)",
+    "page": 9,
+    "bbox_abs": [
+      440.31,
+      538.43,
+      540.01,
+      549.34
+    ],
+    "bbox_norm": [
+      0.719468,
+      0.679834,
+      0.162906,
+      0.013774
+    ],
+    "snippet": "By (3.17) and (3.9),"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.18)",
+    "page": 9,
+    "bbox_abs": [
+      512.12,
+      629.22,
+      539.99,
+      640.13
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.794467,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(3.18)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.16)",
+    "page": 9,
+    "bbox_abs": [
+      72.0,
+      664.09,
+      318.68,
+      675.0
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.838493,
+      0.403066,
+      0.013774
+    ],
+    "snippet": "The estimate (3.16) now follows by iterating (3.18)."
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 4.1",
+    "page": 10,
+    "bbox_abs": [
+      72.0,
+      196.47,
+      540.01,
+      497.99
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.248074,
+      0.764721,
+      0.380707
+    ],
+    "snippet": "Theorem 4.1. Assume B satisfies the condition (3.2) for any ball B(x, r) \u2282 B(0, 4R0). Also assume that (3.6) holds for any x \u2208 B(0, R0). Suppose (D+A)2u = 0 in B(x0, r) \u2282 B(0, R0). Then for any \u2113 \u2265 0, |u(x0)| \u2264 C\u2113 {1 + rm(x0, B)}\u2113 B(x0,r) |u|, (4.2) m(x0, B)|u(x0)| \u2264 C\u2113 {1 + rm(x0, B)}\u2113 B(x0,r) m(x, B)|u(x)|dx, (4.3) where C\u2113 depends on \u2113 and C0 in (3.2). Proof. It follows from (4.1) and (3.16) that |u(x0)| \u2264 C \ufffd B(x0,r/4) |u|2 \ufffd1/2 \u2264 C\u2113 {1 + rm(x0, B)}\u2113 \ufffd B(x0,r/2) |u|2 \ufffd1/2 \u2264 C\u2113 {1 + rm(x0, B)"
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 4.2",
+    "page": 10,
+    "bbox_abs": [
+      72.0,
+      501.86,
+      540.0,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.633656,
+      0.764706,
+      0.316616
+    ],
+    "snippet": "Theorem 4.2. Under the same assumptions as in Theorem 4.1, we have |(D + A)u(x0)| \u2264C r B(x0,r) |u|, (4.6) where C depends on C0 in (3.2). Proof. Note that (D + A)2(Dk + Ak)u = \u2212[Dk + Ak, Dj + Aj](Dj + Aj)u \u2212 (Dj + Aj)[Dk + Ak, Dj + Aj]u = \u22122[Dk + Ak, Dj + Aj](Dj + Aj)u \u2212 [[Dj + Aj, [Dk + Ak, Dj + Aj]]u, where the repeated index j is summed from 1 to d. It follows that (D +A)2(Dk +Ak)u = F, where |F| \u2264 2|B||(D + A)u| + |\u2207B||u|. 10"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.1)",
+    "page": 10,
+    "bbox_abs": [
+      517.58,
+      128.66,
+      539.99,
+      139.57
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.16245,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(4.1)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 10,
+    "bbox_abs": [
+      72.0,
+      173.96,
+      414.24,
+      192.89
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.219644,
+      0.559214,
+      0.023898
+    ],
+    "snippet": "m(\u00b7, B)|u| under the conditions (3.2) and (3.6) on the magnetic field B."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 10,
+    "bbox_abs": [
+      72.0,
+      196.47,
+      510.25,
+      215.4
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.248074,
+      0.716088,
+      0.023898
+    ],
+    "snippet": "Theorem 4.1. Assume B satisfies the condition (3.2) for any ball B(x, r) \u2282 B(0, 4R0)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.6)",
+    "page": 10,
+    "bbox_abs": [
+      72.0,
+      208.54,
+      540.01,
+      228.95
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.26331,
+      0.764721,
+      0.025769
+    ],
+    "snippet": "assume that (3.6) holds for any x \u2208 B(0, R0). Suppose (D+A)2u = 0 in B(x0, r) \u2282 B(0, R0). Then"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.2)",
+    "page": 10,
+    "bbox_abs": [
+      517.58,
+      241.81,
+      539.99,
+      252.72
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.305317,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(4.2)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.3)",
+    "page": 10,
+    "bbox_abs": [
+      517.58,
+      276.02,
+      539.99,
+      286.93
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.348505,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(4.3)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 10,
+    "bbox_abs": [
+      72.0,
+      303.56,
+      260.83,
+      316.24
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.383277,
+      0.308541,
+      0.016018
+    ],
+    "snippet": "where C\u2113 depends on \u2113 and C0 in (3.2)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.1)",
+    "page": 10,
+    "bbox_abs": [
+      72.0,
+      326.07,
+      278.41,
+      336.98
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.411706,
+      0.337279,
+      0.013774
+    ],
+    "snippet": "Proof. It follows from (4.1) and (3.16) that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.4)",
+    "page": 10,
+    "bbox_abs": [
+      517.58,
+      376.62,
+      539.99,
+      387.52
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.475524,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(4.4)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.3)",
+    "page": 10,
+    "bbox_abs": [
+      72.0,
+      426.89,
+      293.15,
+      445.81
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.538998,
+      0.361363,
+      0.023898
+    ],
+    "snippet": "for any \u2113 \u2265 1. To see (4.3), note that by (3.9),"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.5)",
+    "page": 10,
+    "bbox_abs": [
+      517.57,
+      454.83,
+      539.99,
+      465.74
+    ],
+    "bbox_norm": [
+      0.845707,
+      0.574283,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(4.5)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.2)",
+    "page": 10,
+    "bbox_abs": [
+      72.0,
+      479.07,
+      350.9,
+      497.99
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.604883,
+      0.455722,
+      0.023898
+    ],
+    "snippet": "for any x \u2208 B(x0, r). This, together with (4.2), gives (4.3)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.6)",
+    "page": 10,
+    "bbox_abs": [
+      517.58,
+      530.78,
+      539.99,
+      541.69
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.670177,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(4.6)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 10,
+    "bbox_abs": [
+      72.0,
+      562.8,
+      228.01,
+      575.35
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.710609,
+      0.254925,
+      0.01584
+    ],
+    "snippet": "where C depends on C0 in (3.2)."
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 4.3",
+    "page": 11,
+    "bbox_abs": [
+      72.0,
+      461.21,
+      539.99,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.582339,
+      0.764696,
+      0.367933
+    ],
+    "snippet": "Theorem 4.3. Under the same assumptions as in Theorem 4.1, we have |(D + A)u(x0)| \u2264 C B(x0,r) |(D + A)u| dx + C B(x0,r) m(x, B)|u(x)| dx, (4.8) where C depends on C0 in (3.2). Proof. We consider two cases. Case 1. Assume that r2sup B(x0,r) |B| \u2264 1. (4.9) It follows from (4.7) that if B(y, 2t) \u2282 B(x0, r/4), \ufffd B(y,t) |(D + A)u|q \ufffd1/q \u2264 C \ufffd 1 + t2sup B(y,2t) |B| \ufffd \ufffd B(y,2t) |(D + A)u|p \ufffd1/p + Ct2sup B(y,2t) |\u2207B| B(y,3t) |u| \u2264 C \ufffd B(y,2t) |(D + A)u|p \ufffd1/p + Cr sup B(x0,r) |B| B(x0,r) |u|, (4.10) 11"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.8)",
+    "page": 11,
+    "bbox_abs": [
+      72.0,
+      74.5,
+      346.55,
+      93.43
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.094071,
+      0.448619,
+      0.023898
+    ],
+    "snippet": "In view of (2.8), this implies that if B(y, 2t) \u2282 B(x0, r/4),"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.7)",
+    "page": 11,
+    "bbox_abs": [
+      517.58,
+      128.64,
+      539.99,
+      139.55
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.162422,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(4.7)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.13)",
+    "page": 11,
+    "bbox_abs": [
+      72.0,
+      425.06,
+      540.0,
+      445.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.536687,
+      0.764714,
+      0.025964
+    ],
+    "snippet": "for some N, N1 \u2265 1, where we have used (3.13) and (3.8) for the last step. The desired estimate"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.4)",
+    "page": 11,
+    "bbox_abs": [
+      72.0,
+      438.88,
+      313.55,
+      450.69
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.554139,
+      0.394689,
+      0.014912
+    ],
+    "snippet": "now follows readily from (4.4) by choosing \u2113 = N1."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.8)",
+    "page": 11,
+    "bbox_abs": [
+      517.58,
+      489.05,
+      539.99,
+      499.95
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.617481,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(4.8)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 11,
+    "bbox_abs": [
+      72.0,
+      519.98,
+      228.01,
+      532.52
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.656534,
+      0.254925,
+      0.01584
+    ],
+    "snippet": "where C depends on C0 in (3.2)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.9)",
+    "page": 11,
+    "bbox_abs": [
+      517.58,
+      568.68,
+      539.99,
+      579.59
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.718029,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(4.9)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.7)",
+    "page": 11,
+    "bbox_abs": [
+      72.0,
+      596.51,
+      306.59,
+      615.44
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.753175,
+      0.383309,
+      0.023898
+    ],
+    "snippet": "It follows from (4.7) that if B(y, 2t) \u2282 B(x0, r/4),"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.10)",
+    "page": 11,
+    "bbox_abs": [
+      512.12,
+      666.57,
+      539.99,
+      677.47
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.841623,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(4.10)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.10)",
+    "page": 12,
+    "bbox_abs": [
+      72.0,
+      88.33,
+      324.79,
+      99.24
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.111523,
+      0.413048,
+      0.013774
+    ],
+    "snippet": "last step. By iterating the estimate (4.10), we obtain"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.11)",
+    "page": 12,
+    "bbox_abs": [
+      512.12,
+      117.4,
+      539.99,
+      128.31
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.148238,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(4.11)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.9)",
+    "page": 12,
+    "bbox_abs": [
+      72.0,
+      149.02,
+      403.41,
+      162.84
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.188152,
+      0.541516,
+      0.01745
+    ],
+    "snippet": "Note that under the assumption (4.9), we have r < Cm(x0, B)\u22121and"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.11)",
+    "page": 12,
+    "bbox_abs": [
+      72.0,
+      241.51,
+      359.81,
+      260.44
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.304939,
+      0.470279,
+      0.023898
+    ],
+    "snippet": "for any y \u2208 B(x0, r). This, together with (4.11), yields (4.8)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.12)",
+    "page": 12,
+    "bbox_abs": [
+      512.12,
+      274.71,
+      539.99,
+      285.62
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.346855,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(4.12)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.6)",
+    "page": 12,
+    "bbox_abs": [
+      72.0,
+      302.06,
+      306.47,
+      322.7
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.381394,
+      0.383125,
+      0.026061
+    ],
+    "snippet": "Then r \u2265 cm(x0, B)\u22121. It follows from (4.6) that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.4)",
+    "page": 12,
+    "bbox_abs": [
+      72.0,
+      395.86,
+      467.09,
+      414.78
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.499817,
+      0.64557,
+      0.023898
+    ],
+    "snippet": "for any \u2113 \u2265 1, where we have used (4.4) for the last inequality. By (4.5), we obtain"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.13)",
+    "page": 12,
+    "bbox_abs": [
+      512.12,
+      512.52,
+      539.99,
+      523.43
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.647124,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(4.13)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.14)",
+    "page": 12,
+    "bbox_abs": [
+      512.12,
+      610.0,
+      539.99,
+      620.91
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.770205,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(4.14)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.15)",
+    "page": 12,
+    "bbox_abs": [
+      512.13,
+      665.63,
+      540.0,
+      676.53
+    ],
+    "bbox_norm": [
+      0.836808,
+      0.840436,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(4.15)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 12,
+    "bbox_abs": [
+      72.0,
+      689.41,
+      465.46,
+      708.33
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.870464,
+      0.642904,
+      0.023898
+    ],
+    "snippet": "for any x \u2208 \u2202\u2126, where C depends on the Lipschitz character of \u2126 and C0 in (3.2)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.3)",
+    "page": 12,
+    "bbox_abs": [
+      72.0,
+      711.82,
+      301.54,
+      722.73
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.89876,
+      0.375069,
+      0.013774
+    ],
+    "snippet": "Proof. This follows readily from (4.3) and (4.8)."
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 5.1",
+    "page": 13,
+    "bbox_abs": [
+      72.0,
+      132.94,
+      540.0,
+      416.96
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.167852,
+      0.764704,
+      0.358608
+    ],
+    "snippet": "Lemma 5.1. Let x0 \u2208 \u2202\u2126 and 0 < r < r0. Let u \u2208 C2(B(x0, r) \u2229 \u2126; C) \u2229 C(B(x0, r) \u2229 \u2126; C) be a solution of \ufffd (D + A)2u = 0 in B(x0, r) \u2229 \u2126, u = 0 on B(x0, r) \u2229 \u2202\u2126. (5.1) Then sup B(x0,r/2)\u2229\u2126 |u| \u2264 C B(x0,r)\u2229\u2126 |u|, (5.2) where C depends on the Lipschitz character of \u2126. Proof. Let \u03b5 > 0 and v\u03b5 = \ufffd |u|2+ \u03b52\u2212 \u03b5 \u2265 0. It follows from (2.2) and (5.1) that \u2206v\u03b5 \u2265 0. Thus, v\u03b5 is subharmonic in B(x0, r) \u2229 \u2126 and v\u03b5 = 0 on B(x0, r) \u2229 \u2202\u2126. Hence, sup B(x0,r/2)\u2229\u2126 v\u03b5 \u2264 C B(x0,r)\u2229\u2126 v\u03b5, where C depends only on \u2126. By"
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 5.2",
+    "page": 13,
+    "bbox_abs": [
+      72.0,
+      427.36,
+      540.03,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.539593,
+      0.764757,
+      0.410679
+    ],
+    "snippet": "Lemma 5.2. For F \u2208 H\u22121(\u2126; C), the Dirichlet problem (5.3) has a unique weak solution in H1 0(\u2126; C). Moreover, if F \u2208 L2(\u2126; C), the solution satisfies \u2225u\u2225Lpd(\u2126) + \u2225(D + A)u\u2225L2(\u2126) \u2264 C\u2225F\u2225Lp\u2032 d(\u2126), (5.4) where pd = 2d d\u22122for d \u2265 3 and 2 \u2264 pd < \u221e for d = 2. The constant C in (5.4) depends at most on d, pd and \u2126. Proof. Consider the bilinear form B[u, v] = \u02c6 \u2126 (D + A)u \u00b7 (D + A)v (5.5) for u, v \u2208 H1 0(\u2126; C). Since A is bounded in \u2126, we have B[u, u] \u2265 c \u02c6 \u2126 |\u2207u|2\u2212 C(A) \u02c6 \u2126 |u|2 \u2265 c \u02c6 \u2126 |\u2207u|2\u2212 C(A)B[u, "
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.1)",
+    "page": 13,
+    "bbox_abs": [
+      517.58,
+      170.55,
+      539.99,
+      181.46
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.215342,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(5.1)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.2)",
+    "page": 13,
+    "bbox_abs": [
+      517.58,
+      214.84,
+      539.99,
+      225.75
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.271262,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(5.2)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.2)",
+    "page": 13,
+    "bbox_abs": [
+      210.53,
+      263.81,
+      540.0,
+      285.05
+    ],
+    "bbox_norm": [
+      0.344,
+      0.333099,
+      0.538351,
+      0.026815
+    ],
+    "snippet": "|u|2+ \u03b52\u2212 \u03b5 \u2265 0. It follows from (2.2) and (5.1) that \u2206v\u03b5 \u2265 0. Thus,"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.2)",
+    "page": 13,
+    "bbox_abs": [
+      72.0,
+      339.74,
+      374.09,
+      358.67
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.428969,
+      0.493613,
+      0.023898
+    ],
+    "snippet": "where C depends only on \u2126. By letting \u03b5 \u2192 0, we obtain (5.2)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.3)",
+    "page": 13,
+    "bbox_abs": [
+      517.58,
+      395.14,
+      539.99,
+      406.05
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.498912,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(5.3)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.3)",
+    "page": 13,
+    "bbox_abs": [
+      72.0,
+      427.36,
+      540.01,
+      448.0
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.539593,
+      0.764717,
+      0.026061
+    ],
+    "snippet": "Lemma 5.2. For F \u2208 H\u22121(\u2126; C), the Dirichlet problem (5.3) has a unique weak solution in"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.4)",
+    "page": 13,
+    "bbox_abs": [
+      517.58,
+      466.92,
+      539.99,
+      477.83
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.589544,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(5.4)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.4)",
+    "page": 13,
+    "bbox_abs": [
+      128.97,
+      495.68,
+      539.99,
+      515.5
+    ],
+    "bbox_norm": [
+      0.210742,
+      0.625854,
+      0.671588,
+      0.025035
+    ],
+    "snippet": "d\u22122for d \u2265 3 and 2 \u2264 pd < \u221e for d = 2. The constant C in (5.4) depends at most on"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.5)",
+    "page": 13,
+    "bbox_abs": [
+      517.58,
+      560.06,
+      539.99,
+      570.97
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.707143,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(5.5)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.5)",
+    "page": 13,
+    "bbox_abs": [
+      72.0,
+      678.04,
+      540.03,
+      688.95
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.856108,
+      0.764757,
+      0.013774
+    ],
+    "snippet": "where c > 0, C(A) depends on A, and we have used (2.5) for the second inequality. It follows that"
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 5.5",
+    "page": 14,
+    "bbox_abs": [
+      72.0,
+      294.29,
+      540.02,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.371579,
+      0.764747,
+      0.578693
+    ],
+    "snippet": "Theorem 5.5. There is a continuous function GA : {(x, y) \u2208 \u2126 \u00d7 \u2126 : x \u0338= y} \u2192 C with the following properties. 1. For any x, y \u2208 \u2126, x \u0338= y, and \u03c3 \u2208 (0, 1), |GA(x, y)| \u2264 \ufffd C|x \u2212 y|2\u2212d if d \u2265 3, C\u03c3|x \u2212 y|\u2212\u03c3 if d = 2, (5.8) where C depends only on r0 and the Lipschitz character of \u2126, and C\u03c3 depends only on \u03c3 and \u2126. 2. For any x, y \u2208 \u2126, x \u0338= y, GA(x, y) = GA(y, x). (5.9) 3. Fix y \u2208 \u2126. Then GA(\u00b7, y) \u2208 W1,2 loc(\u2126 \\ {y}; C), GA(\u00b7, y) = 0 on \u2202\u2126, and (D + A)2GA(\u00b7, y) = 0 in \u2126 \\ {y}. (5.10) 4. For F \u2208 L\u221e(\u2126"
+  },
+  {
+    "category": "remark",
+    "label": "Remark 5.3",
+    "page": 14,
+    "bbox_abs": [
+      72.0,
+      164.49,
+      540.02,
+      236.33
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.207692,
+      0.764737,
+      0.090705
+    ],
+    "snippet": "Remark 5.3. Suppose F \u2208 L\u221e(\u2126; C). Since (D + A)2u = \u2212\u2206u + 2A \u00b7 Du + (D \u00b7 A + |A|2)u, (5.7) under the assumption A \u2208 C1(\u2126; Rd) and \u2126 is Lipschitz, the weak solution of (5.3) is H\u00a8older continuous in \u2126."
+  },
+  {
+    "category": "remark",
+    "label": "Remark 5.4",
+    "page": 14,
+    "bbox_abs": [
+      72.0,
+      244.57,
+      540.03,
+      287.9
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.308805,
+      0.764748,
+      0.054709
+    ],
+    "snippet": "Remark 5.4. Let f \u2208 H1/2(\u2202\u2126; C). Choose \u03a6 \u2208 H1(\u2126; C) such that \u03a6 = f on \u2202\u2126 and \u2225\u03a6\u2225H1(\u2126) \u2264 C\u2225f\u2225H1/2(\u2202\u2126). By considering u \u2212 \u03a6 and applying Lemma 5.2, one obtains a unique week solution in H1(\u2126; C) for the Dirichlet problem (1.3)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.3)",
+    "page": 14,
+    "bbox_abs": [
+      72.0,
+      73.02,
+      446.9,
+      85.69
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.0922,
+      0.612579,
+      0.01599
+    ],
+    "snippet": "Thus, by the Lax-Milgram Theorem, (5.3) has a unique weak solution in H1"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.4)",
+    "page": 14,
+    "bbox_abs": [
+      72.0,
+      86.34,
+      253.32,
+      101.09
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.109016,
+      0.296272,
+      0.018623
+    ],
+    "snippet": "H\u22121(\u2126; C). To see (5.4), we note that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.6)",
+    "page": 14,
+    "bbox_abs": [
+      517.58,
+      116.05,
+      539.99,
+      126.96
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.146523,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(5.6)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.5)",
+    "page": 14,
+    "bbox_abs": [
+      72.0,
+      144.26,
+      249.13,
+      155.17
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.182152,
+      0.28943,
+      0.013774
+    ],
+    "snippet": "This, together with (2.5), gives (5.4)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.7)",
+    "page": 14,
+    "bbox_abs": [
+      517.58,
+      189.18,
+      539.99,
+      200.08
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.238858,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(5.7)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.3)",
+    "page": 14,
+    "bbox_abs": [
+      72.0,
+      210.02,
+      540.02,
+      230.53
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.265174,
+      0.764737,
+      0.025895
+    ],
+    "snippet": "under the assumption A \u2208 C1(\u2126; Rd) and \u2126 is Lipschitz, the weak solution of (5.3) is H\u00a8older"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.3)",
+    "page": 14,
+    "bbox_abs": [
+      72.0,
+      273.28,
+      280.59,
+      287.9
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.345056,
+      0.340834,
+      0.018457
+    ],
+    "snippet": "in H1(\u2126; C) for the Dirichlet problem (1.3)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.8)",
+    "page": 14,
+    "bbox_abs": [
+      517.58,
+      365.35,
+      539.99,
+      376.26
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.461301,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(5.8)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.9)",
+    "page": 14,
+    "bbox_abs": [
+      517.58,
+      463.45,
+      539.99,
+      474.36
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.585161,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(5.9)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.10)",
+    "page": 14,
+    "bbox_abs": [
+      512.12,
+      509.45,
+      539.99,
+      520.35
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.643239,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.10)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.3)",
+    "page": 14,
+    "bbox_abs": [
+      84.9,
+      534.34,
+      371.74,
+      554.98
+    ],
+    "bbox_norm": [
+      0.138721,
+      0.67467,
+      0.468691,
+      0.02606
+    ],
+    "snippet": "4. For F \u2208 L\u221e(\u2126; C), the weak solution of (5.3) is given by"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.11)",
+    "page": 14,
+    "bbox_abs": [
+      512.12,
+      564.04,
+      539.99,
+      574.95
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.712176,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.11)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.3)",
+    "page": 14,
+    "bbox_abs": [
+      311.51,
+      609.11,
+      540.01,
+      628.04
+    ],
+    "bbox_norm": [
+      0.509009,
+      0.769083,
+      0.373365,
+      0.023898
+    ],
+    "snippet": "A(\u00b7, y) denote the weak solution of (5.3) with"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.12)",
+    "page": 14,
+    "bbox_abs": [
+      512.12,
+      653.83,
+      539.99,
+      664.73
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.825537,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.12)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.4)",
+    "page": 14,
+    "bbox_abs": [
+      139.2,
+      683.09,
+      301.29,
+      698.05
+    ],
+    "bbox_norm": [
+      0.227454,
+      0.862493,
+      0.264845,
+      0.018879
+    ],
+    "snippet": "0(\u2126; C). It follows from (5.4) that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.13)",
+    "page": 14,
+    "bbox_abs": [
+      512.12,
+      711.82,
+      539.99,
+      722.73
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.89876,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.13)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.3)",
+    "page": 15,
+    "bbox_abs": [
+      72.0,
+      101.26,
+      540.0,
+      121.66
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.127848,
+      0.764707,
+      0.025769
+    ],
+    "snippet": "be the weak solution of (5.3). Since (D + A)2u = 0 in \u2126 \\ B(z, r) and u = 0 on \u2202\u2126, it follows by"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.2)",
+    "page": 15,
+    "bbox_abs": [
+      72.0,
+      116.56,
+      194.44,
+      127.47
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.147171,
+      0.200071,
+      0.013774
+    ],
+    "snippet": "(5.2), (2.8) and (5.4) that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.14)",
+    "page": 15,
+    "bbox_abs": [
+      512.12,
+      162.72,
+      539.99,
+      173.63
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.205458,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.14)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.15)",
+    "page": 15,
+    "bbox_abs": [
+      512.12,
+      226.25,
+      539.99,
+      237.16
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.285666,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.15)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.12)",
+    "page": 15,
+    "bbox_abs": [
+      139.2,
+      249.96,
+      358.72,
+      264.91
+    ],
+    "bbox_norm": [
+      0.227454,
+      0.315611,
+      0.358696,
+      0.018877
+    ],
+    "snippet": "0(\u2126; C). In view of (5.12) and (5.15), we have"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.16)",
+    "page": 15,
+    "bbox_abs": [
+      512.12,
+      279.77,
+      539.99,
+      290.68
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.353241,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.16)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.14)",
+    "page": 15,
+    "bbox_abs": [
+      72.0,
+      310.01,
+      225.49,
+      320.92
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.391428,
+      0.250802,
+      0.013774
+    ],
+    "snippet": "This, together with (5.14), gives"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.17)",
+    "page": 15,
+    "bbox_abs": [
+      512.12,
+      392.72,
+      539.99,
+      403.63
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.495864,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.17)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.18)",
+    "page": 15,
+    "bbox_abs": [
+      512.12,
+      438.19,
+      539.99,
+      449.1
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.553265,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.18)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.17)",
+    "page": 15,
+    "bbox_abs": [
+      72.0,
+      460.92,
+      340.67,
+      471.83
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.581965,
+      0.439011,
+      0.013774
+    ],
+    "snippet": "it follows from Lemma 5.1 and (5.17) that if \u03c1 < (1/2)r,"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.19)",
+    "page": 15,
+    "bbox_abs": [
+      512.12,
+      505.25,
+      539.99,
+      516.16
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.637942,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.19)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.20)",
+    "page": 15,
+    "bbox_abs": [
+      512.12,
+      587.6,
+      539.99,
+      598.5
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.741913,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.20)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.20)",
+    "page": 15,
+    "bbox_abs": [
+      88.94,
+      626.44,
+      390.06,
+      648.2
+    ],
+    "bbox_norm": [
+      0.14532,
+      0.790964,
+      0.492036,
+      0.027471
+    ],
+    "snippet": "Using the estimates (5.20) and (5.13), one can show that {G\u03c1"
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 5.6",
+    "page": 16,
+    "bbox_abs": [
+      72.0,
+      310.84,
+      540.0,
+      434.3
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.392474,
+      0.764708,
+      0.15589
+    ],
+    "snippet": "Theorem 5.6. Let \u2126 \u2282 B(0, R0) be a bounded Lipschitz domain. Suppose B satisfies the condition (3.2) for any ball B(x, r) \u2282 B(0, 4R0). Also assume that (3.6) holds for any x \u2208 B(0, R0). Let u be a solution of (5.1), where x0 \u2208 \u2202\u2126 and 0 < r < r0. Then for any \u2113 \u2265 0, sup B(x0,r/2)\u2229\u2126 |u| \u2264 C\u2113 {1 + rm(x0, B)}\u2113 B(x0,r)\u2229\u2126 |u|, (5.22) where C\u2113 depends on \u2113, the Lipschitz character of \u2126 and C0 in (3.2). Proof. This follows readily from Lemma 5.1 and Theorem 3.5."
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 5.7",
+    "page": 16,
+    "bbox_abs": [
+      72.0,
+      445.91,
+      540.01,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.563018,
+      0.764717,
+      0.387254
+    ],
+    "snippet": "Theorem 5.7. Assume \u2126 and B satisfy the same conditions as in Theorem 5.6. Let GA(x, y) be the Green function for the operator (D + A)2in \u2126, given by Theorem 5.5. Let \u2113 \u2265 1. Then, for any x, y \u2208 \u2126 and x \u0338= y, |GA(x, y)| \u2264 C\u2113 {1 + |x \u2212 y|m(x, B)}\u2113 \u00b7 1 |x \u2212 y|d\u22122 (5.23) for d \u2265 3, where C\u2113 depends on \u2113, r0, the Lipschitz character of \u2126 and C0 in (3.2). If d = 2, we have |GA(x, y)| \u2264 C\u2113,\u03c3 {1 + |x \u2212 y|m(x, B)}\u2113 \u00b7 1 |x \u2212 y|\u03c3 (5.24) for any \u03c3 \u2208 (0, 1), where C\u2113,\u03c3 depends on \u2113, \u03c3, r0, the Lipschitz cha"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.10)",
+    "page": 16,
+    "bbox_abs": [
+      301.8,
+      88.95,
+      455.0,
+      109.46
+    ],
+    "bbox_norm": [
+      0.493141,
+      0.112316,
+      0.250317,
+      0.025895
+    ],
+    "snippet": "loc(\u2126 \\ {y}; C) and (5.10) holds."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.20)",
+    "page": 16,
+    "bbox_abs": [
+      88.94,
+      102.5,
+      540.06,
+      123.01
+    ],
+    "bbox_norm": [
+      0.145322,
+      0.129424,
+      0.737129,
+      0.025895
+    ],
+    "snippet": "Since A \u2208 C1(\u2126; Rd), using (5.20) and the standard elliptic regularity theory, one may deduce"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.8)",
+    "page": 16,
+    "bbox_abs": [
+      119.3,
+      131.18,
+      540.0,
+      150.11
+    ],
+    "bbox_norm": [
+      0.194936,
+      0.165636,
+      0.687418,
+      0.023898
+    ],
+    "snippet": "A(\u00b7, y) \u2192 GA(\u00b7, y) uniformly in \u2126 \\ B(y, t) for any fixed t \u2208 (0, 1). As a result, (5.8)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.20)",
+    "page": 16,
+    "bbox_abs": [
+      72.0,
+      145.01,
+      354.34,
+      155.92
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.183089,
+      0.461332,
+      0.013774
+    ],
+    "snippet": "follows from (5.20). To show (5.9), we use (5.16) with F ="
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.9)",
+    "page": 16,
+    "bbox_abs": [
+      72.0,
+      201.67,
+      268.79,
+      222.23
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.254628,
+      0.321546,
+      0.025965
+    ],
+    "snippet": "By letting \u03c1 = \u03c1j \u2192 0, we arrive at (5.9)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.3)",
+    "page": 16,
+    "bbox_abs": [
+      88.94,
+      213.5,
+      540.0,
+      234.14
+    ],
+    "bbox_norm": [
+      0.14532,
+      0.269574,
+      0.737029,
+      0.02606
+    ],
+    "snippet": "Finally, let u be the weak solution of (5.3) with F \u2208 L\u221e(\u2126; C). Since A \u2208 C1(\u2126; Rd), u is"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.16)",
+    "page": 16,
+    "bbox_abs": [
+      72.0,
+      229.04,
+      365.35,
+      239.95
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.289188,
+      0.479323,
+      0.013774
+    ],
+    "snippet": "H\u00a8older continuous in \u2126. By taking limits in (5.16), we obtain"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.21)",
+    "page": 16,
+    "bbox_abs": [
+      512.12,
+      258.57,
+      539.99,
+      269.48
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.326475,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.21)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.9)",
+    "page": 16,
+    "bbox_abs": [
+      72.0,
+      288.6,
+      260.89,
+      299.51
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.36439,
+      0.308646,
+      0.013774
+    ],
+    "snippet": "which, together with (5.9), gives (5.11)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 16,
+    "bbox_abs": [
+      72.0,
+      324.39,
+      540.0,
+      343.32
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.409583,
+      0.764708,
+      0.023898
+    ],
+    "snippet": "(3.2) for any ball B(x, r) \u2282 B(0, 4R0). Also assume that (3.6) holds for any x \u2208 B(0, R0). Let u be"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.1)",
+    "page": 16,
+    "bbox_abs": [
+      72.0,
+      337.94,
+      414.46,
+      358.5
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.42669,
+      0.559579,
+      0.025964
+    ],
+    "snippet": "a solution of (5.1), where x0 \u2208 \u2202\u2126 and 0 < r < r0. Then for any \u2113 \u2265 0,"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.22)",
+    "page": 16,
+    "bbox_abs": [
+      512.12,
+      367.74,
+      539.99,
+      378.65
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.464321,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.22)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 16,
+    "bbox_abs": [
+      72.0,
+      400.88,
+      401.0,
+      413.57
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.506161,
+      0.537585,
+      0.016019
+    ],
+    "snippet": "where C\u2113 depends on \u2113, the Lipschitz character of \u2126 and C0 in (3.2)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.23)",
+    "page": 16,
+    "bbox_abs": [
+      512.12,
+      501.92,
+      539.99,
+      512.83
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.633738,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.23)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 16,
+    "bbox_abs": [
+      72.0,
+      532.0,
+      540.0,
+      550.92
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.671714,
+      0.764699,
+      0.023898
+    ],
+    "snippet": "for d \u2265 3, where C\u2113 depends on \u2113, r0, the Lipschitz character of \u2126 and C0 in (3.2). If d = 2, we"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.24)",
+    "page": 16,
+    "bbox_abs": [
+      512.12,
+      561.85,
+      539.99,
+      572.76
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.709409,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.24)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 16,
+    "bbox_abs": [
+      72.0,
+      587.45,
+      529.04,
+      606.37
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.741725,
+      0.746794,
+      0.023898
+    ],
+    "snippet": "for any \u03c3 \u2208 (0, 1), where C\u2113,\u03c3 depends on \u2113, \u03c3, r0, the Lipschitz character of \u2126 and C0 in (3.2)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.2)",
+    "page": 16,
+    "bbox_abs": [
+      88.94,
+      637.06,
+      470.35,
+      655.99
+    ],
+    "bbox_norm": [
+      0.145322,
+      0.804369,
+      0.623216,
+      0.023898
+    ],
+    "snippet": "Case 1. Suppose dist(x0, \u2202\u2126) > r. Then B(x0, r) \u2282 \u2126. It follows from (4.2) that"
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 5.8",
+    "page": 17,
+    "bbox_abs": [
+      72.0,
+      280.24,
+      540.02,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.353839,
+      0.764735,
+      0.596433
+    ],
+    "snippet": "Theorem 5.8. Let d \u2265 3. Assume \u2126 and B satisfy the same conditions as in Theorem 5.6. For F \u2208 L\u221e(\u2126; C), let u be a weak solution of (5.3). Then \u2225m(x, B)\u2113+2u\u2225Lp(\u2126) \u2264 C\u2113\u2225m(x, B)\u2113F\u2225Lp(\u2126) (5.26) for any \u2113 \u2208 R and 1 \u2264 p \u2264 \u221e, where C\u2113 depends on \u2113, r0, the Lipschitz character of \u2126, and C0 in (3.2). Proof. By Theorem 5.5, we may write m(x, B)\u2113+2u(x) = \u02c6 \u2126 K\u2113(x, y)m(y, B)\u2113F(y) dy, where K\u2113(x, y) = m(x, B)\u2113+2GA(x, y)m(y, B)\u2212\u2113. To show (5.26), it suffices to show that for any x \u2208 \u2126, \u02c6 \u2126 |K\u2113(x, y)| dy \u2264 C\u2113"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.8)",
+    "page": 17,
+    "bbox_abs": [
+      72.0,
+      74.78,
+      385.34,
+      85.69
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.094416,
+      0.511997,
+      0.013774
+    ],
+    "snippet": "where we have used (5.8) for the last inequality. This gives (5.23)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.22)",
+    "page": 17,
+    "bbox_abs": [
+      88.94,
+      88.05,
+      539.99,
+      108.62
+    ],
+    "bbox_norm": [
+      0.14532,
+      0.111179,
+      0.737019,
+      0.025964
+    ],
+    "snippet": "Case 2. Suppose dist(x0, \u2202\u2126) \u2264 r. Choose z0 \u2208 \u2202\u2126 such that |x0 \u2212z0| = dist(x0, \u2202\u2126). By (5.22)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.25)",
+    "page": 17,
+    "bbox_abs": [
+      512.12,
+      134.04,
+      539.99,
+      144.95
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.169243,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.25)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.8)",
+    "page": 17,
+    "bbox_abs": [
+      72.0,
+      175.41,
+      433.75,
+      186.32
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.221475,
+      0.591088,
+      0.013774
+    ],
+    "snippet": "where we have used (5.8) for the last inequality. Finally, note that by (3.8),"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.25)",
+    "page": 17,
+    "bbox_abs": [
+      72.0,
+      257.73,
+      372.63,
+      276.65
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.325411,
+      0.491233,
+      0.023898
+    ],
+    "snippet": "Since \u2113 \u2265 1 is arbitrary, this, together with (5.25), gives (5.23)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.3)",
+    "page": 17,
+    "bbox_abs": [
+      72.0,
+      292.08,
+      332.86,
+      312.72
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.368784,
+      0.426248,
+      0.026061
+    ],
+    "snippet": "F \u2208 L\u221e(\u2126; C), let u be a weak solution of (5.3). Then"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.26)",
+    "page": 17,
+    "bbox_abs": [
+      512.12,
+      318.57,
+      539.99,
+      329.48
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.402236,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.26)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 17,
+    "bbox_abs": [
+      72.0,
+      356.63,
+      97.76,
+      367.54
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.450288,
+      0.042095,
+      0.013774
+    ],
+    "snippet": "(3.2)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.26)",
+    "page": 17,
+    "bbox_abs": [
+      72.0,
+      470.79,
+      329.56,
+      489.72
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.594436,
+      0.420845,
+      0.023898
+    ],
+    "snippet": "To show (5.26), it suffices to show that for any x \u2208 \u2126,"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.27)",
+    "page": 17,
+    "bbox_abs": [
+      512.12,
+      500.6,
+      539.99,
+      511.51
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.632067,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.27)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.28)",
+    "page": 17,
+    "bbox_abs": [
+      512.12,
+      547.99,
+      539.99,
+      558.9
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.691902,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.28)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.27)",
+    "page": 17,
+    "bbox_abs": [
+      72.0,
+      573.53,
+      233.97,
+      584.44
+    ],
+    "bbox_norm": [
+      0.117648,
+      0.724157,
+      0.264653,
+      0.013774
+    ],
+    "snippet": "To see (5.27), we use the estimate"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.29)",
+    "page": 17,
+    "bbox_abs": [
+      512.13,
+      598.04,
+      540.0,
+      608.95
+    ],
+    "bbox_norm": [
+      0.836806,
+      0.755101,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(5.29)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.23)",
+    "page": 17,
+    "bbox_abs": [
+      72.0,
+      622.28,
+      413.91,
+      641.2
+    ],
+    "bbox_norm": [
+      0.117648,
+      0.785701,
+      0.55868,
+      0.023898
+    ],
+    "snippet": "for any x, y \u2208 \u2126 and the fact that (5.23) holds for any \u2113 \u2265 1. This gives"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.27)",
+    "page": 17,
+    "bbox_abs": [
+      72.0,
+      683.78,
+      519.25,
+      702.71
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.863363,
+      0.730793,
+      0.023898
+    ],
+    "snippet": "for any \u2113 \u2265 1, from which the inequality (5.27) follows readily. The proof for (5.28) is similar."
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 6.1",
+    "page": 18,
+    "bbox_abs": [
+      72.0,
+      129.65,
+      540.02,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.1637,
+      0.764742,
+      0.786572
+    ],
+    "snippet": "Lemma 6.1. Let x0 \u2208 \u2202\u2126 and 0 < r < r0. Let u \u2208 C2(B(x0, r) \u2229 \u2126; C) \u2229 C1(B(x0, r) \u2229 \u2126; C) be a solution of \ufffd (D + A)2u = 0 in B(x0, r) \u2229 \u2126, n \u00b7 (D + A)u = 0 on B(x0, r) \u2229 \u2202\u2126, (6.1) where n denotes the outward unit normal to \u2202\u2126. Then sup B(x0,r/2)\u2229\u2126 |u| \u2264 C B(x0,r)\u2229\u2126 |u|, (6.2) where C depends only on \u2126. Proof. Let \u03b5 > 0 and u\u03b5 = \ufffd |u|2+ \u03b52. Since (D + A)2u = 0 in B(x0, r) \u2229 \u2126, by (2.2), we have \u2206u\u03b5 \u2265 0 in B(x0, r)\u2229\u2126. Using n\u00b7(D +A)u = 0 on B(x0, r)\u2229\u2202\u2126 and (2.3), we see that n\u00b7\u2207u\u03b5 = 0 on B(x0, r) "
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.1)",
+    "page": 18,
+    "bbox_abs": [
+      517.58,
+      167.26,
+      539.99,
+      178.17
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.211191,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(6.1)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.2)",
+    "page": 18,
+    "bbox_abs": [
+      517.58,
+      216.11,
+      539.99,
+      227.02
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.272869,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(6.2)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.2)",
+    "page": 18,
+    "bbox_abs": [
+      218.43,
+      261.29,
+      540.0,
+      281.7
+    ],
+    "bbox_norm": [
+      0.356918,
+      0.329912,
+      0.525443,
+      0.025769
+    ],
+    "snippet": "|u|2+ \u03b52. Since (D + A)2u = 0 in B(x0, r) \u2229 \u2126, by (2.2), we have"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.3)",
+    "page": 18,
+    "bbox_abs": [
+      72.0,
+      276.32,
+      540.0,
+      296.88
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.348891,
+      0.764713,
+      0.025964
+    ],
+    "snippet": "\u2206u\u03b5 \u2265 0 in B(x0, r)\u2229\u2126. Using n\u00b7(D +A)u = 0 on B(x0, r)\u2229\u2202\u2126 and (2.3), we see that n\u00b7\u2207u\u03b5 = 0"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.1)",
+    "page": 18,
+    "bbox_abs": [
+      72.0,
+      698.27,
+      540.02,
+      709.18
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.881653,
+      0.764742,
+      0.013774
+    ],
+    "snippet": "from which and the interior estimate (4.1), the estimate (6.2) follows by a simple covering argument."
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 6.3",
+    "page": 19,
+    "bbox_abs": [
+      72.0,
+      664.86,
+      539.99,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.839467,
+      0.764693,
+      0.110805
+    ],
+    "snippet": "Theorem 6.3. There is a continuous function NA : {(x, y) \u2208 \u2126 \u00d7 \u2126 : x \u0338= y} \u2192 C with the following properties. 19"
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 6.2",
+    "page": 19,
+    "bbox_abs": [
+      72.0,
+      376.2,
+      540.03,
+      655.11
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.475006,
+      0.764758,
+      0.352149
+    ],
+    "snippet": "Lemma 6.2. For F \u2208 L2(\u2126; C) and g \u2208 L2(\u2202\u2126; C), the Neumann problem (6.5) possesses a unique weak solution in H1(\u2126; C). Moreover, the solution satisfies \u2225u\u2225Lpd(\u2126) + \u2225(D + A)u\u2225L2(\u2126) \u2264 C \ufffd \u2225F\u2225Lp\u2032 d(\u2126)+ \u2225g\u2225L2(\u2202\u2126) \ufffd , (6.7) where pd = 2d d\u22122for d \u2265 3 and 2 \u2264 pd < \u221e for d = 2. The constant C in (6.7) depends at most on pd, \u2126 and c0 in (6.3). Proof. Consider the bilinear form B[u, v] in (5.5) for u, v \u2208 H1(\u2126; C). Since A is bounded in \u2126, we have B[u, u] \u22651 2 \u02c6 \u2126 |\u2207u|2\u2212 C(A) \u02c6 \u2126 |u|2 \u22651 2 \u02c6 \u2126 |\u2207u|2\u2212 C(A"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.3)",
+    "page": 19,
+    "bbox_abs": [
+      517.58,
+      103.7,
+      539.99,
+      114.61
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.130937,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(6.3)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.3)",
+    "page": 19,
+    "bbox_abs": [
+      72.0,
+      132.79,
+      348.57,
+      153.3
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.167664,
+      0.451907,
+      0.025895
+    ],
+    "snippet": "for any \u03c8 \u2208 H1(\u2126; C). It follows from (6.3) and (2.6) that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.4)",
+    "page": 19,
+    "bbox_abs": [
+      517.58,
+      167.97,
+      539.99,
+      178.88
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.212081,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(6.4)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.4)",
+    "page": 19,
+    "bbox_abs": [
+      72.0,
+      213.67,
+      256.4,
+      226.21
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.26978,
+      0.301313,
+      0.01584
+    ],
+    "snippet": "(6.4) depends on pd, \u2126 and c0 in (6.3)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.5)",
+    "page": 19,
+    "bbox_abs": [
+      517.58,
+      260.38,
+      539.99,
+      271.29
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.328767,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(6.5)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.5)",
+    "page": 19,
+    "bbox_abs": [
+      72.0,
+      293.21,
+      488.96,
+      313.72
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.37022,
+      0.681301,
+      0.025895
+    ],
+    "snippet": "Let F \u2208 L2(\u2126; C) and g \u2208 L2(\u2202\u2126; C), we say u \u2208 H1(\u2126; C) is a weak solution of (6.5) if"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.6)",
+    "page": 19,
+    "bbox_abs": [
+      517.58,
+      324.6,
+      539.99,
+      335.51
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.40985,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(6.6)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.5)",
+    "page": 19,
+    "bbox_abs": [
+      72.0,
+      376.2,
+      540.01,
+      396.71
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.475006,
+      0.764727,
+      0.025895
+    ],
+    "snippet": "Lemma 6.2. For F \u2208 L2(\u2126; C) and g \u2208 L2(\u2202\u2126; C), the Neumann problem (6.5) possesses a unique"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.7)",
+    "page": 19,
+    "bbox_abs": [
+      517.58,
+      418.84,
+      539.99,
+      429.75
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.528834,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(6.7)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.7)",
+    "page": 19,
+    "bbox_abs": [
+      128.97,
+      448.07,
+      539.99,
+      467.9
+    ],
+    "bbox_norm": [
+      0.210742,
+      0.565751,
+      0.671588,
+      0.025035
+    ],
+    "snippet": "d\u22122for d \u2265 3 and 2 \u2264 pd < \u221e for d = 2. The constant C in (6.7) depends at most on"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.3)",
+    "page": 19,
+    "bbox_abs": [
+      72.0,
+      461.9,
+      175.9,
+      474.44
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.583202,
+      0.16977,
+      0.015841
+    ],
+    "snippet": "pd, \u2126 and c0 in (6.3)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.5)",
+    "page": 19,
+    "bbox_abs": [
+      72.0,
+      482.56,
+      540.02,
+      503.07
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.60929,
+      0.764733,
+      0.025895
+    ],
+    "snippet": "Proof. Consider the bilinear form B[u, v] in (5.5) for u, v \u2208 H1(\u2126; C). Since A is bounded in \u2126, we"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.3)",
+    "page": 19,
+    "bbox_abs": [
+      72.0,
+      568.08,
+      540.03,
+      578.99
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.71727,
+      0.764758,
+      0.013774
+    ],
+    "snippet": "where C(A) depends on A and we have used the assumption (6.3) for the second inequality. It"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (2.7)",
+    "page": 19,
+    "bbox_abs": [
+      72.0,
+      615.24,
+      540.02,
+      635.75
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.776823,
+      0.764737,
+      0.025895
+    ],
+    "snippet": "for any u \u2208 H1(\u2126; C), where c(A) > 0. By the Lax-Milgram Theorem and (2.7), this implies that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.5)",
+    "page": 19,
+    "bbox_abs": [
+      72.0,
+      628.79,
+      539.99,
+      649.3
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.793931,
+      0.764692,
+      0.025895
+    ],
+    "snippet": "(6.5) has a unique weak solution in H1(\u2126; C) for any F \u2208 L2(\u2126; C) and g \u2208 L2(\u2202\u2126; C). To see"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.7)",
+    "page": 19,
+    "bbox_abs": [
+      72.0,
+      644.2,
+      294.6,
+      655.11
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.81338,
+      0.363733,
+      0.013774
+    ],
+    "snippet": "(6.7), we use (6.6) with \u03c8 = u, (6.4) and (2.7)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.8)",
+    "page": 20,
+    "bbox_abs": [
+      517.58,
+      104.65,
+      539.99,
+      115.56
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.132131,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(6.8)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.3)",
+    "page": 20,
+    "bbox_abs": [
+      99.27,
+      134.52,
+      429.11,
+      147.07
+    ],
+    "bbox_norm": [
+      0.162211,
+      0.169847,
+      0.538948,
+      0.015841
+    ],
+    "snippet": "where C depends on d, \u2126 and c0 in (6.3), and C\u03c3 depends also on \u03c3."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.9)",
+    "page": 20,
+    "bbox_abs": [
+      517.58,
+      186.67,
+      539.99,
+      197.57
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.235688,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(6.9)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.10)",
+    "page": 20,
+    "bbox_abs": [
+      512.12,
+      239.24,
+      539.99,
+      250.15
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.30207,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(6.10)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.5)",
+    "page": 20,
+    "bbox_abs": [
+      84.9,
+      270.96,
+      454.92,
+      291.6
+    ],
+    "bbox_norm": [
+      0.138721,
+      0.342118,
+      0.604607,
+      0.026061
+    ],
+    "snippet": "4. For F \u2208 L\u221e(\u2126; C) and g \u2208 L\u221e(\u2202\u2126), the weak solution of (6.5) is given by"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.11)",
+    "page": 20,
+    "bbox_abs": [
+      512.12,
+      298.57,
+      539.99,
+      309.48
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.376984,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(6.11)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.5)",
+    "page": 20,
+    "bbox_abs": [
+      216.22,
+      341.2,
+      452.02,
+      360.13
+    ],
+    "bbox_norm": [
+      0.353309,
+      0.43081,
+      0.385288,
+      0.023898
+    ],
+    "snippet": "A(\u00b7, y) denote the weak solution of (6.5) with F ="
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.12)",
+    "page": 20,
+    "bbox_abs": [
+      512.12,
+      380.05,
+      539.99,
+      390.96
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.479856,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(6.12)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.7)",
+    "page": 20,
+    "bbox_abs": [
+      72.0,
+      407.22,
+      468.38,
+      427.73
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.514172,
+      0.647683,
+      0.025895
+    ],
+    "snippet": "for any \u03c8 \u2208 H1(\u2126; C). Using (6.7) and (6.2), one can show that if \u03c1 < (1/4)|z \u2212 y|,"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.8)",
+    "page": 20,
+    "bbox_abs": [
+      396.37,
+      499.17,
+      540.02,
+      518.73
+    ],
+    "bbox_norm": [
+      0.64766,
+      0.63027,
+      0.234721,
+      0.024691
+    ],
+    "snippet": "d\u22121. The proof for (6.8)-(6.10)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.11)",
+    "page": 20,
+    "bbox_abs": [
+      72.0,
+      512.72,
+      540.0,
+      523.63
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.647378,
+      0.764711,
+      0.013774
+    ],
+    "snippet": "is the same as in the case of the Green function. To see (6.11), let u be a weak solution of (6.5)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.6)",
+    "page": 20,
+    "bbox_abs": [
+      350.2,
+      526.0,
+      471.98,
+      544.93
+    ],
+    "bbox_norm": [
+      0.572227,
+      0.664141,
+      0.19898,
+      0.023898
+    ],
+    "snippet": "A(\u00b7, y) in (6.6), we obtain"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.12)",
+    "page": 20,
+    "bbox_abs": [
+      72.0,
+      578.76,
+      229.44,
+      589.67
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.730754,
+      0.257255,
+      0.013774
+    ],
+    "snippet": "This, together with (6.12), yields"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.13)",
+    "page": 20,
+    "bbox_abs": [
+      512.12,
+      604.39,
+      539.99,
+      615.3
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.763114,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(6.13)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.13)",
+    "page": 20,
+    "bbox_abs": [
+      72.0,
+      659.33,
+      229.23,
+      679.89
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.832488,
+      0.256909,
+      0.025965
+    ],
+    "snippet": "\u03c1 = \u03c1j \u2192 0 in (6.13), we see that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.9)",
+    "page": 20,
+    "bbox_abs": [
+      72.0,
+      711.82,
+      362.24,
+      722.73
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.89876,
+      0.474243,
+      0.013774
+    ],
+    "snippet": "In view of (6.9), this gives the representation formula (6.11)."
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 6.4",
+    "page": 21,
+    "bbox_abs": [
+      72.0,
+      74.5,
+      540.07,
+      334.53
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.094071,
+      0.76482,
+      0.328319
+    ],
+    "snippet": "Theorem 6.4. Let \u2126 \u2282 B(0, R0) be a bounded Lipschitz domain. Suppose that B satisfies the condition (3.2) for any ball B(x, r) \u2282 B(0, 4R0). Also assume that (3.6) holds for any x \u2208 B(0, R0). Let NA(x, y) be the Neumann function for the operator (D + A)2in \u2126, given by Theorem 6.3. Let \u2113 \u2265 1. Then, for any x, y \u2208 \u2126 and x \u0338= y, |NA(x, y)| \u2264 C\u2113 {1 + |x \u2212 y|m(x, B)}\u2113 \u00b7 1 |x \u2212 y|d\u22122 (6.14) for d \u2265 3, where C\u2113 depends on \u2113, R0, \u2126, and C0 in (3.2). If d = 2, we have |NA(x, y)| \u2264 C\u2113,\u03c3 {1 + |x \u2212 y|m(x, B)"
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 6.5",
+    "page": 21,
+    "bbox_abs": [
+      72.0,
+      337.74,
+      540.01,
+      580.12
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.426434,
+      0.76473,
+      0.306035
+    ],
+    "snippet": "Theorem 6.5. Let d \u2265 3. Suppose \u2126 and B satisfy the same conditions as in Theorem 6.4. For F \u2208 L\u221e(\u2126; C), let u \u2208 H1(\u2126; C) be a weak solution of (6.5) with g = 0. Then \u2225m(x, B)\u2113+2u\u2225Lp(\u2126) \u2264 C\u2113\u2225m(x, B)\u2113F\u2225Lp(\u2126) (6.16) for any \u2113 \u2208 R and 1 \u2264 p \u2264 \u221e, where C\u2113 depends on d, \u2113, R0, the Lipschitz character of \u2126 and C0 in (3.2). Proof. The proof is similar to that of Theorem 5.8. 7 Rellich estimates Let \u2126 be a bounded Lipschitz domain in Rdand A \u2208 C1(\u2126; Rd). Let L = (L1, . . . , Ld), where Lj = Dj + Aj for "
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 7.1",
+    "page": 21,
+    "bbox_abs": [
+      72.0,
+      587.36,
+      539.99,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.741621,
+      0.764696,
+      0.208651
+    ],
+    "snippet": "Lemma 7.1. Let \u03b1 = (\u03b11, . . . , \u03b1d) \u2208 C1(Rd; Rd). Suppose u \u2208 C2(\u2126; C) and (D + A)2u = F in \u2126. Then \u02c6 \u2202\u2126 \u03b1jnj|(D + A)u|2= 2\u211c \u02c6 \u2202\u2126 \u03b1knj(Dj + Aj)u(Dk + Ak)u + 2\u2111 \u02c6 \u2126 \u03b1kBkju(Dj + Aj)u + \u02c6 \u2126 div(\u03b1)|(D + A)u|2 \u2212 2\u211c \u02c6 \u2126 \u2202j\u03b1k(Dj + Aj)u(Dk + Ak)u + 2\u2111 \u02c6 \u2126 \u03b1kF(Dk + Ak)u, (7.2) where the repeated indices j, k are summed from 1 to d. 21"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 21,
+    "bbox_abs": [
+      72.0,
+      88.05,
+      539.99,
+      106.98
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.111179,
+      0.764695,
+      0.023898
+    ],
+    "snippet": "condition (3.2) for any ball B(x, r) \u2282 B(0, 4R0). Also assume that (3.6) holds for any x \u2208 B(0, R0)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.14)",
+    "page": 21,
+    "bbox_abs": [
+      512.12,
+      142.02,
+      539.99,
+      152.93
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.179321,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(6.14)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 21,
+    "bbox_abs": [
+      72.0,
+      169.79,
+      436.68,
+      188.71
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.214376,
+      0.595881,
+      0.023898
+    ],
+    "snippet": "for d \u2265 3, where C\u2113 depends on \u2113, R0, \u2126, and C0 in (3.2). If d = 2, we have"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.15)",
+    "page": 21,
+    "bbox_abs": [
+      512.12,
+      197.46,
+      539.99,
+      208.37
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.249322,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(6.15)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 21,
+    "bbox_abs": [
+      72.0,
+      225.23,
+      532.4,
+      244.15
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.284377,
+      0.752286,
+      0.023898
+    ],
+    "snippet": "for any \u03c3 \u2208 (0, 1), where C\u2113,\u03c3 depends on \u2113, \u03c3, R0, the Lipschitz character of \u2126 and C0 in (3.2)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.3)",
+    "page": 21,
+    "bbox_abs": [
+      72.0,
+      314.02,
+      327.6,
+      334.53
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.396494,
+      0.417649,
+      0.025895
+    ],
+    "snippet": "which gives the condition (6.3) for any \u03c8 \u2208 H1(\u2126; C)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.5)",
+    "page": 21,
+    "bbox_abs": [
+      72.0,
+      349.57,
+      443.17,
+      370.21
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.441379,
+      0.606485,
+      0.02606
+    ],
+    "snippet": "F \u2208 L\u221e(\u2126; C), let u \u2208 H1(\u2126; C) be a weak solution of (6.5) with g = 0. Then"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.16)",
+    "page": 21,
+    "bbox_abs": [
+      512.12,
+      373.75,
+      539.99,
+      384.66
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.471909,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(6.16)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 21,
+    "bbox_abs": [
+      72.0,
+      409.5,
+      111.98,
+      420.4
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.517039,
+      0.065329,
+      0.013774
+    ],
+    "snippet": "in (3.2)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.1)",
+    "page": 21,
+    "bbox_abs": [
+      517.58,
+      560.05,
+      539.99,
+      570.96
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.707132,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(7.1)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.2)",
+    "page": 21,
+    "bbox_abs": [
+      517.58,
+      656.23,
+      539.99,
+      667.14
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.828576,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(7.2)"
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 7.2",
+    "page": 22,
+    "bbox_abs": [
+      72.0,
+      563.18,
+      539.99,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.711089,
+      0.764696,
+      0.239183
+    ],
+    "snippet": "Lemma 7.2. Let \u03b1 \u2208 C1(Rd; Rd). Suppose u \u2208 C2(\u2126; C) and (D + A)2u = F in \u2126. Then \u02c6 \u2202\u2126 \u03b1jnj|(D + A)u|2= 2\u211c \u02c6 \u2202\u2126 \u03b1kTkju(Dj + Aj)u \u2212 2\u2111 \u02c6 \u2126 \u03b1kBkju(Dj + Aj)u \u2212 \u02c6 \u2126 div(\u03b1)|(D + A)u|2 + 2\u211c \u02c6 \u2126 \u2202j\u03b1k(Dj + Aj)u(Dk + Ak)u \u2212 2\u2111 \u02c6 \u2126 \u03b1kF(Dk + Ak)u, (7.6) where the repeated indices j, k are summed from 1 to d. 22"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.1)",
+    "page": 22,
+    "bbox_abs": [
+      72.0,
+      74.78,
+      212.46,
+      85.69
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.094416,
+      0.229507,
+      0.013774
+    ],
+    "snippet": "Proof. Using (7.1), we obtain"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.3)",
+    "page": 22,
+    "bbox_abs": [
+      517.58,
+      293.84,
+      539.99,
+      304.75
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.371013,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(7.3)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.1)",
+    "page": 22,
+    "bbox_abs": [
+      72.0,
+      337.71,
+      410.43,
+      356.64
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.426405,
+      0.552991,
+      0.023898
+    ],
+    "snippet": "where we have used the fact [Lk, Lj] = \u2212iBkj. Also note that by (7.1),"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.4)",
+    "page": 22,
+    "bbox_abs": [
+      517.58,
+      382.73,
+      539.99,
+      393.64
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.483243,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(7.4)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.4)",
+    "page": 22,
+    "bbox_abs": [
+      72.0,
+      426.87,
+      202.18,
+      437.78
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.538979,
+      0.21271,
+      0.013774
+    ],
+    "snippet": "From (7.4), we deduce that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.5)",
+    "page": 22,
+    "bbox_abs": [
+      517.58,
+      456.4,
+      539.99,
+      467.31
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.576265,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(7.5)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.2)",
+    "page": 22,
+    "bbox_abs": [
+      72.0,
+      486.43,
+      358.22,
+      497.34
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.614182,
+      0.467683,
+      0.013774
+    ],
+    "snippet": "The equation (7.2) now follows readily from (7.3) and (7.5)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.6)",
+    "page": 22,
+    "bbox_abs": [
+      517.58,
+      623.54,
+      539.99,
+      634.45
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.787302,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(7.6)"
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 7.3",
+    "page": 23,
+    "bbox_abs": [
+      72.0,
+      258.57,
+      540.02,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.326481,
+      0.764745,
+      0.623791
+    ],
+    "snippet": "Lemma 7.3. Suppose that u \u2208 C2(\u2126; C) and (D + A)2u = F in \u2126. Then for any \u2113 \u2208 R, \u02c6 \u2202\u2126 |(D + A)u|2m(x, B)\u2113\u2264 C \u02c6 \u2202\u2126 |n \u00b7 (D + A)u|2m(x, B)\u2113+ C \u02c6 \u2126 |u|2m(x, B)\u2113+3 + C \u02c6 \u2126 |(D + A)u|2m(x, B)\u2113+1+ C \u02c6 \u2126 |F|2m(x, B)\u2113\u22121, (7.7) \u02c6 \u2202\u2126 |(D + A)u|2m(x, B)\u2113\u2264 C \u02c6 \u2202\u2126 |Tu|2m(x, B)\u2113+ C \u02c6 \u2126 |u|2m(x, B)\u2113+3 + C \u02c6 \u2126 |(D + A)u|2m(x, B)\u2113+1+ C \u02c6 \u2126 |F|2m(x, B)\u2113\u22121, (7.8) where C depends on \u2113, \u2126 and C0 in (3.2). Proof. Fix x0 \u2208 \u2202\u2126. Recall that m(x0, B) > 2R\u22121 0 by (3.6). Let r = cm(x0, B)\u22121< r0, where c > 0 depends on the "
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.2)",
+    "page": 23,
+    "bbox_abs": [
+      72.0,
+      74.5,
+      539.99,
+      93.43
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.094071,
+      0.764697,
+      0.023898
+    ],
+    "snippet": "Proof. Write the equation (7.2) as I = J. Then (7.6) follows from the fact I = 2I \u2212 I = 2I \u2212 J as"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 23,
+    "bbox_abs": [
+      72.0,
+      213.84,
+      539.99,
+      232.76
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.269997,
+      0.764688,
+      0.023898
+    ],
+    "snippet": "B satisfies (3.2) for any B(x, r) \u2282 B(0, 4R0) and (3.6) for any x \u2208 B(0, R0). We emphases that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.7)",
+    "page": 23,
+    "bbox_abs": [
+      517.58,
+      300.61,
+      539.99,
+      311.52
+    ],
+    "bbox_norm": [
+      0.845713,
+      0.379563,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(7.7)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.8)",
+    "page": 23,
+    "bbox_abs": [
+      517.58,
+      362.08,
+      539.99,
+      372.99
+    ],
+    "bbox_norm": [
+      0.845711,
+      0.457172,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(7.8)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 23,
+    "bbox_abs": [
+      72.0,
+      399.76,
+      272.78,
+      412.31
+    ],
+    "bbox_norm": [
+      0.117648,
+      0.50475,
+      0.328067,
+      0.01584
+    ],
+    "snippet": "where C depends on \u2113, \u2126 and C0 in (3.2)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.6)",
+    "page": 23,
+    "bbox_abs": [
+      326.46,
+      417.0,
+      540.0,
+      430.82
+    ],
+    "bbox_norm": [
+      0.533433,
+      0.526509,
+      0.348918,
+      0.01745
+    ],
+    "snippet": "by (3.6). Let r = cm(x0, B)\u22121< r0, where"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.2)",
+    "page": 23,
+    "bbox_abs": [
+      72.0,
+      459.63,
+      191.49,
+      470.54
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.580339,
+      0.195241,
+      0.013774
+    ],
+    "snippet": "It follows from (7.2) that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.7)",
+    "page": 23,
+    "bbox_abs": [
+      72.0,
+      711.82,
+      520.67,
+      722.73
+    ],
+    "bbox_norm": [
+      0.117648,
+      0.89876,
+      0.73312,
+      0.013774
+    ],
+    "snippet": "which yields (7.7) by using the Cauchy inequality. A similar argument, using (7.6), gives (7.8)."
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 7.5",
+    "page": 24,
+    "bbox_abs": [
+      72.0,
+      639.3,
+      540.0,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.807194,
+      0.764702,
+      0.143078
+    ],
+    "snippet": "Theorem 7.5. Suppose d \u2265 3. Let u \u2208 C2(\u2126; C). Suppose (D + A)2u = F in \u2126. Assume that either u = 0 on \u2202\u2126 or n \u00b7 (D + A)u = 0 on \u2202\u2126. Then \u02c6 \u2126 |(D + A)u|2m(x, B)\u2113+ \u02c6 \u2126 |u|2m(x, B)\u2113+2\u2264 C \u02c6 \u2126 |F|2m(x, B)\u2113\u22122 (7.10) for any \u2113 \u2208 R, where C depends on \u2113. 24"
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 7.4",
+    "page": 24,
+    "bbox_abs": [
+      72.0,
+      74.78,
+      539.99,
+      629.7
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.094416,
+      0.764697,
+      0.700659
+    ],
+    "snippet": "Lemma 7.4. Under the same assumptions as in Lemma 7.3, we have \u02c6 \u2126 |(D + A)u|2m(x, B)\u2113+1\u2264 C \u02c6 \u2126 |u|2m(x, B)\u2113+3+ C \u02c6 \u2126 |F|2m(x, B)\u2113\u22121 + C \u02c6 \u2202\u2126 |u||n \u00b7 (D + A)u|m(x, B)\u2113+1, (7.9) for any \u2113 \u2208 R, where C depends on \u2113. Proof. Fix x0 \u2208 \u2202\u2126 and let r = cm(x0, B)\u22121< r0. It follows from Remark 3.4 that \u02c6 B(x0,r)\u2229\u2126 |(D + A)u|2m(x, B)\u2113+d\u2264 C \u02c6 B(x0,2r)\u2229\u2126 |u|2m(x, B)\u2113+d+2 + C \u02c6 B(x0,2r)\u2229\u2126 |F|2m(x, B)\u2113+d\u22122 + C \u02c6 B(x0,2r)\u2229\u2202\u2126 |u||n \u00b7 (D + A)u|m(x, B)\u2113+d. By integrating the inequality above in x0 over \u2202\u2126, we see "
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.9)",
+    "page": 24,
+    "bbox_abs": [
+      517.58,
+      117.39,
+      539.99,
+      128.3
+    ],
+    "bbox_norm": [
+      0.845713,
+      0.148226,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(7.9)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.9)",
+    "page": 24,
+    "bbox_abs": [
+      72.0,
+      360.83,
+      307.32,
+      371.74
+    ],
+    "bbox_norm": [
+      0.117648,
+      0.455597,
+      0.38451,
+      0.013774
+    ],
+    "snippet": "is bounded by the right-hand side of (7.9), where"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.9)",
+    "page": 24,
+    "bbox_abs": [
+      72.0,
+      618.79,
+      297.64,
+      629.7
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.781301,
+      0.368699,
+      0.013774
+    ],
+    "snippet": "is also bounded by the right-hand side of (7.9)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.10)",
+    "page": 24,
+    "bbox_abs": [
+      512.12,
+      683.31,
+      539.99,
+      694.22
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.86277,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(7.10)"
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 7.6",
+    "page": 25,
+    "bbox_abs": [
+      72.0,
+      142.85,
+      539.99,
+      407.1
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.180367,
+      0.764696,
+      0.333645
+    ],
+    "snippet": "Lemma 7.6. Let u \u2208 H1(\u2126; C). Then \u02c6 \u2202\u2126 |u|2m(x, B)\u2113\u2264 C \u02c6 \u2126 |u|2m(x, B)\u2113+1+ C \u02c6 \u2126 |(D + A)u|2m(x, B)\u2113\u22121, (7.11) where C depends on \u2113 and \u2126. Proof. Let x0 \u2208 \u2202\u2126 and r = cm(x0, B)\u22121< r0. Then \u02c6 B(x0,r)\u2229\u2202\u2126 |v|2\u2264C r \u02c6 B(x0,2r)\u2229\u2126 |v|2+ Cr \u02c6 B(x0,2r)\u2229\u2126 |\u2207v|2 for any v \u2208 H1(\u2126; C). By applying the inequality above to v = v\u03b5 = \ufffd |u|2+ \u03b52and letting \u03b5 \u2192 0, we obtain \u02c6 B(x0,r)\u2229\u2202\u2126 |u|2\u2264C r \u02c6 B(x0,2r)\u2229\u2126 |u|2+ Cr \u02c6 B(x0,2r)\u2229\u2126 |(D + A)u|2. This leads to\u02c6 B(x0,r)\u2229\u2202\u2126 |u|2m(x, B)\u2113+d\u22121\u2264 C \u02c6 \u2126\u2229B(x0,2r) |u|2m(x, B)\u2113+d"
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 7.7",
+    "page": 25,
+    "bbox_abs": [
+      72.0,
+      416.13,
+      539.99,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.525421,
+      0.764696,
+      0.424851
+    ],
+    "snippet": "Lemma 7.7. Under the same assumptions as in Lemma 7.3, we have \u02c6 \u2202\u2126 |(D + A)u|2m(x, B)\u2113+ \u02c6 \u2202\u2126 |u|2m(x, B)\u2113+2 \u2264 C \u02c6 \u2202\u2126 |n \u00b7 (D + A)u|2m(x, B)\u2113+ C \u02c6 \u2126 |u|2m(x, B)\u2113+3+ C \u02c6 \u2126 |F|2m(x, B)\u2113\u22121, (7.12) \u02c6 \u2202\u2126 |(D + A)u|2m(x, B)\u2113\u2264 C \u02c6 \u2202\u2126 |Tu|2m(x, B)\u2113+ C \u02c6 \u2202\u2126 |u|2m(x, B)\u2113+2 + C \u02c6 \u2126 |u|2m(x, B)\u2113+3+ C \u02c6 \u2126 |F|2m(x, B)\u2113\u22121, (7.13) for any \u2113 \u2208 R, where C depends on \u2113, C0 in (3.2) and the Lipschitz character of \u2126. Proof. To see (7.12), we use (7.7) and (7.11) to obtain \u02c6 \u2202\u2126 |(D + A)u|2m(x, B)\u2113+ \u02c6 \u2202\u2126 |u|2m(x, B)\u2113+"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.9)",
+    "page": 25,
+    "bbox_abs": [
+      72.0,
+      74.78,
+      428.2,
+      85.69
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.094416,
+      0.582021,
+      0.013774
+    ],
+    "snippet": "Proof. It follows from (7.9) that the left-hand side of (7.10) is bounded by"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.10)",
+    "page": 25,
+    "bbox_abs": [
+      72.0,
+      123.12,
+      362.91,
+      134.03
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.155459,
+      0.475342,
+      0.013774
+    ],
+    "snippet": "This yields (7.10) by using Theorems 5.8 and 6.5 with p = 2."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.11)",
+    "page": 25,
+    "bbox_abs": [
+      512.12,
+      168.63,
+      539.99,
+      179.54
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.212916,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(7.11)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.11)",
+    "page": 25,
+    "bbox_abs": [
+      72.0,
+      394.55,
+      397.46,
+      407.1
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.498172,
+      0.53179,
+      0.01584
+    ],
+    "snippet": "By integrating the inequality above in x0 over \u2202\u2126, we obtain (7.11)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.12)",
+    "page": 25,
+    "bbox_abs": [
+      512.12,
+      454.06,
+      539.99,
+      464.97
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.573312,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(7.12)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.13)",
+    "page": 25,
+    "bbox_abs": [
+      512.12,
+      513.88,
+      539.99,
+      524.79
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.648836,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(7.13)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 25,
+    "bbox_abs": [
+      72.0,
+      548.88,
+      469.16,
+      569.39
+    ],
+    "bbox_norm": [
+      0.117648,
+      0.693031,
+      0.648961,
+      0.025895
+    ],
+    "snippet": "for any \u2113 \u2208 R, where C depends on \u2113, C0 in (3.2) and the Lipschitz character of \u2126."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.12)",
+    "page": 25,
+    "bbox_abs": [
+      72.0,
+      568.58,
+      331.76,
+      579.49
+    ],
+    "bbox_norm": [
+      0.117648,
+      0.717902,
+      0.424444,
+      0.013774
+    ],
+    "snippet": "Proof. To see (7.12), we use (7.7) and (7.11) to obtain"
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 7.8",
+    "page": 26,
+    "bbox_abs": [
+      72.0,
+      210.82,
+      540.01,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.26619,
+      0.764715,
+      0.684082
+    ],
+    "snippet": "Lemma 7.8. Let d \u2265 3. Suppose u \u2208 C1(\u2126; C) and (D + A)2u = 0 in \u2126. Then for any \u2113 \u2208 R, \u02c6 \u2126 |u|2m(x, B)\u2113+3\u2264 C \u02c6 \u2202\u2126 |u|2m(x, B)\u2113+2, (7.14) \u02c6 \u2126 |u|2m(x, B)\u2113+3\u2264 C \u02c6 \u2202\u2126 |n \u00b7 (D + A)u|2m(x, B)\u2113, (7.15) where C depends on \u2113 and \u2126. Proof. We use a duality argument. For G \u2208 C\u221e 0(\u2126; C), let v \u2208 H1(\u2126; C) be the weak solution of (D + A)2v = G in \u2126 with the Neumann condition n \u00b7 (D + A)v = 0 on \u2202\u2126. Note that \u02c6 \u2126 u \u00b7 G = \u02c6 \u2126 (D + A)u \u00b7 (D + A)v = i \u02c6 \u2202\u2126 n \u00b7 (D + A)u \u00b7 v. It follows by the Cauchy inequality th"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.9)",
+    "page": 26,
+    "bbox_abs": [
+      72.0,
+      74.78,
+      540.04,
+      85.69
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.094416,
+      0.764778,
+      0.013774
+    ],
+    "snippet": "where we have used (7.9) for the second inequality. The inequality (7.12) now follows readily by"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.13)",
+    "page": 26,
+    "bbox_abs": [
+      88.94,
+      101.88,
+      379.18,
+      112.78
+    ],
+    "bbox_norm": [
+      0.14532,
+      0.12863,
+      0.474261,
+      0.013774
+    ],
+    "snippet": "The proof for (7.13) is similar. By (7.8) and (7.9), we obtain"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.13)",
+    "page": 26,
+    "bbox_abs": [
+      72.0,
+      190.16,
+      425.54,
+      201.07
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.240102,
+      0.577683,
+      0.013774
+    ],
+    "snippet": "which yields (7.13) by applying the Cauchy inequality to the last integral."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.14)",
+    "page": 26,
+    "bbox_abs": [
+      512.12,
+      242.21,
+      539.99,
+      253.12
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.305818,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(7.14)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.15)",
+    "page": 26,
+    "bbox_abs": [
+      512.12,
+      270.93,
+      539.99,
+      281.84
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.342089,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(7.15)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.16)",
+    "page": 26,
+    "bbox_abs": [
+      512.12,
+      426.68,
+      539.99,
+      437.59
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.53874,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(7.16)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.17)",
+    "page": 26,
+    "bbox_abs": [
+      512.12,
+      473.83,
+      539.99,
+      484.74
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.598274,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(7.17)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.16)",
+    "page": 26,
+    "bbox_abs": [
+      72.0,
+      499.38,
+      321.52,
+      510.29
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.630529,
+      0.407719,
+      0.013774
+    ],
+    "snippet": "which, together with (7.16), yields (7.15) by duality."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (6.16)",
+    "page": 26,
+    "bbox_abs": [
+      72.0,
+      572.68,
+      314.0,
+      583.59
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.723086,
+      0.395431,
+      0.013774
+    ],
+    "snippet": "This, together with (6.16) with p = 2, gives (7.17)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.14)",
+    "page": 26,
+    "bbox_abs": [
+      88.94,
+      584.25,
+      301.7,
+      604.89
+    ],
+    "bbox_norm": [
+      0.14532,
+      0.737686,
+      0.347646,
+      0.026061
+    ],
+    "snippet": "The proof of (7.14) is similar. For \u03a8 \u2208 C\u221e"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.18)",
+    "page": 26,
+    "bbox_abs": [
+      512.12,
+      691.45,
+      539.99,
+      702.36
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.873048,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(7.18)"
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 7.9",
+    "page": 27,
+    "bbox_abs": [
+      72.0,
+      232.51,
+      540.1,
+      624.49
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.29357,
+      0.764867,
+      0.494923
+    ],
+    "snippet": "Theorem 7.9. Let d \u2265 3. Suppose u \u2208 C2(\u2126; C) and (D + A)2u = 0 in \u2126. Then for any \u2113 \u2208 R, \u02c6 \u2202\u2126 |(D + A)u|2m(x, B)\u2113+ \u02c6 \u2202\u2126 |u|2m(x, B)\u2113+2+ \u02c6 \u2126 |u|2m(x, B)\u2113+3 + \u02c6 \u2126 |(D + A)u|2m(x, B)\u2113+1\u2264 C \u02c6 \u2202\u2126 |n \u00b7 (D + A)u|2m(x, B)\u2113, (7.20) \u02c6 \u2202\u2126 |(D + A)u|2m(x, B)\u2113+ \u02c6 \u2126 |u|2m(x, B)\u2113+3+ \u02c6 \u2126 |(D + A)u|2m(x, B)\u2113+1 \u2264 C \u02c6 \u2202\u2126 |Tu|2m(x, B)\u2113+ C \u02c6 \u2202\u2126 |u|2m(x, B)\u2113+2, (7.21) where C depends on \u2113 and \u2126. Proof. We give the proof of (7.20). A similar argument yields (7.21). First, by (7.12) and (7.15), we obtain \u02c6 \u2202\u2126 |(D + A)u"
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 8.1",
+    "page": 27,
+    "bbox_abs": [
+      72.0,
+      629.39,
+      539.99,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.794683,
+      0.764697,
+      0.155589
+    ],
+    "snippet": "Lemma 8.1. Let u \u2208 C1(\u2126; C) and w(x) = u(x)m(x, B). Let M(w) be defined by (4.13). Then \u02c6 \u2202\u2126 |M(w)|2\u2264 C \u02c6 \u2202\u2126 |w|2+ C \u02c6 \u2126 |(D + A)u(x)|2m(x, B) dx + C \u02c6 \u2126 |u(x)|2m(x, B)3dx, (8.1) where C depends on \u2126 and C0 in (3.2). 27"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.19)",
+    "page": 27,
+    "bbox_abs": [
+      512.12,
+      90.62,
+      539.99,
+      101.53
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.114422,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(7.19)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.18)",
+    "page": 27,
+    "bbox_abs": [
+      72.0,
+      114.24,
+      331.53,
+      125.15
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.144243,
+      0.424065,
+      0.013774
+    ],
+    "snippet": "which, together with (7.18), leads to (7.14) by duality."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.19)",
+    "page": 27,
+    "bbox_abs": [
+      88.94,
+      125.8,
+      507.38,
+      146.44
+    ],
+    "bbox_norm": [
+      0.14532,
+      0.158842,
+      0.683726,
+      0.026061
+    ],
+    "snippet": "Finally, to prove (7.19), we apply the estimate (7.13). Since \u2126 is smooth and \u03a8 \u2208 C\u221e"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (5.26)",
+    "page": 27,
+    "bbox_abs": [
+      72.0,
+      193.19,
+      373.46,
+      204.1
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.243923,
+      0.492575,
+      0.013774
+    ],
+    "snippet": "This, together with the estimate (5.26) with p = 2, gives (7.19)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.20)",
+    "page": 27,
+    "bbox_abs": [
+      512.12,
+      274.65,
+      539.99,
+      285.56
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.346779,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(7.20)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.21)",
+    "page": 27,
+    "bbox_abs": [
+      512.12,
+      336.22,
+      539.99,
+      347.13
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.424515,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(7.21)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.20)",
+    "page": 27,
+    "bbox_abs": [
+      72.0,
+      392.64,
+      401.82,
+      403.55
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.495763,
+      0.538918,
+      0.013774
+    ],
+    "snippet": "Proof. We give the proof of (7.20). A similar argument yields (7.21)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.12)",
+    "page": 27,
+    "bbox_abs": [
+      88.94,
+      406.19,
+      267.54,
+      417.1
+    ],
+    "bbox_norm": [
+      0.145321,
+      0.51287,
+      0.291836,
+      0.013774
+    ],
+    "snippet": "First, by (7.12) and (7.15), we obtain"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.22)",
+    "page": 27,
+    "bbox_abs": [
+      512.12,
+      431.87,
+      539.99,
+      442.78
+    ],
+    "bbox_norm": [
+      0.8368,
+      0.545288,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(7.22)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.9)",
+    "page": 27,
+    "bbox_abs": [
+      72.0,
+      458.04,
+      540.1,
+      468.95
+    ],
+    "bbox_norm": [
+      0.117648,
+      0.578336,
+      0.764867,
+      0.013774
+    ],
+    "snippet": "Next, by (7.9) and (7.15), the third and fourth terms in the left-hand side of (7.20) are bounded"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.22)",
+    "page": 27,
+    "bbox_abs": [
+      72.0,
+      513.18,
+      468.82,
+      524.08
+    ],
+    "bbox_norm": [
+      0.117648,
+      0.647949,
+      0.648396,
+      0.013774
+    ],
+    "snippet": "In view of (7.22), the integrals above are bounded by the right-hand side of (7.20)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 27,
+    "bbox_abs": [
+      72.0,
+      598.12,
+      540.0,
+      617.05
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.755201,
+      0.764699,
+      0.023898
+    ],
+    "snippet": "(3.2) for any B(x, r) \u2282 B(0, 4R0) and (3.6) for any x \u2208 B(0, R0). As before, the dependence of"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.13)",
+    "page": 27,
+    "bbox_abs": [
+      72.0,
+      629.39,
+      530.22,
+      649.9
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.794683,
+      0.748719,
+      0.025895
+    ],
+    "snippet": "Lemma 8.1. Let u \u2208 C1(\u2126; C) and w(x) = u(x)m(x, B). Let M(w) be defined by (4.13). Then"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.1)",
+    "page": 27,
+    "bbox_abs": [
+      517.58,
+      671.53,
+      539.99,
+      682.44
+    ],
+    "bbox_norm": [
+      0.845713,
+      0.847893,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(8.1)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 27,
+    "bbox_abs": [
+      72.0,
+      711.82,
+      260.98,
+      724.36
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.89876,
+      0.308796,
+      0.01584
+    ],
+    "snippet": "where C depends on \u2126 and C0 in (3.2)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.2)",
+    "page": 28,
+    "bbox_abs": [
+      517.58,
+      308.22,
+      539.99,
+      319.13
+    ],
+    "bbox_norm": [
+      0.845713,
+      0.389162,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(8.2)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.2)",
+    "page": 28,
+    "bbox_abs": [
+      72.0,
+      411.55,
+      233.99,
+      422.46
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.519636,
+      0.264688,
+      0.013774
+    ],
+    "snippet": "This, together with (8.2), leads to"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.3)",
+    "page": 28,
+    "bbox_abs": [
+      517.58,
+      512.58,
+      539.99,
+      523.49
+    ],
+    "bbox_norm": [
+      0.845711,
+      0.647193,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(8.3)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.3)",
+    "page": 28,
+    "bbox_abs": [
+      72.0,
+      570.57,
+      197.45,
+      583.12
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.720417,
+      0.204984,
+      0.015841
+    ],
+    "snippet": "(8.3) to the function w\u03b5 ="
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.4)",
+    "page": 28,
+    "bbox_abs": [
+      517.58,
+      610.02,
+      539.99,
+      620.93
+    ],
+    "bbox_norm": [
+      0.845713,
+      0.770226,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(8.4)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.4)",
+    "page": 28,
+    "bbox_abs": [
+      88.94,
+      637.71,
+      540.01,
+      680.03
+    ],
+    "bbox_norm": [
+      0.14532,
+      0.805184,
+      0.737048,
+      0.053444
+    ],
+    "snippet": "Finally, we apply (8.4) to w = u \ufffdm, where \ufffdm is a function in C1(B(0, 2R0); R) with the properties"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.5)",
+    "page": 28,
+    "bbox_abs": [
+      517.58,
+      681.49,
+      539.99,
+      692.4
+    ],
+    "bbox_norm": [
+      0.845713,
+      0.860464,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(8.5)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.1)",
+    "page": 28,
+    "bbox_abs": [
+      72.0,
+      709.96,
+      256.24,
+      730.47
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.896419,
+      0.30105,
+      0.025895
+    ],
+    "snippet": "for any u \u2208 C1(\u2126; C). This gives (8.1)."
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 8.2",
+    "page": 29,
+    "bbox_abs": [
+      72.0,
+      72.92,
+      540.0,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.092074,
+      0.764702,
+      0.858198
+    ],
+    "snippet": "Theorem 8.2. Let u \u2208 C2(\u2126; C) be a solution of the Neumann problem, (D + A)2u = 0 in \u2126 and n \u00b7 (D + A)u = g on \u2202\u2126. (8.6) Let v(x) = |(D + A)u(x)| + m(x, B)|u(x)|. Then \u2225(v)\u2217\u2225L2(\u2202\u2126) \u2264 C\u2225g\u2225L2(\u2202\u2126), (8.7) where C depends on C0 in (3.2) and \u2126. Proof. In view of Corollary 4.4, it suffices to prove that \u2225M(v)\u2225L2(\u2202\u2126) \u2264 C\u2225g\u2225L2(\u2202\u2126), (8.8) where M(v) is defined by (4.13). Let w = (Dk + Ak)u for 1 \u2264 k \u2264 d. Then (D + A)2w = F, where |F| \u2264 2|B||(D + A)u| + |\u2207B||u|. (8.9) Let w = w1 + w2, where (D + A)2w1 = 0 "
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.6)",
+    "page": 29,
+    "bbox_abs": [
+      517.58,
+      98.58,
+      539.99,
+      109.48
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.124464,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(8.6)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.7)",
+    "page": 29,
+    "bbox_abs": [
+      517.58,
+      146.17,
+      539.99,
+      157.08
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.184558,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(8.7)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 29,
+    "bbox_abs": [
+      72.0,
+      169.97,
+      260.98,
+      182.51
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.214606,
+      0.308796,
+      0.01584
+    ],
+    "snippet": "where C depends on C0 in (3.2) and \u2126."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.8)",
+    "page": 29,
+    "bbox_abs": [
+      517.58,
+      215.69,
+      539.99,
+      226.6
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.272335,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(8.8)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.13)",
+    "page": 29,
+    "bbox_abs": [
+      72.0,
+      239.21,
+      229.21,
+      258.14
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.302038,
+      0.256882,
+      0.023898
+    ],
+    "snippet": "where M(v) is defined by (4.13)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.9)",
+    "page": 29,
+    "bbox_abs": [
+      517.58,
+      276.83,
+      539.99,
+      287.74
+    ],
+    "bbox_norm": [
+      0.845711,
+      0.349538,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(8.9)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.10)",
+    "page": 29,
+    "bbox_abs": [
+      512.12,
+      333.16,
+      539.99,
+      344.07
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.420662,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(8.10)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.20)",
+    "page": 29,
+    "bbox_abs": [
+      72.0,
+      365.7,
+      405.12,
+      376.61
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.461739,
+      0.544314,
+      0.013774
+    ],
+    "snippet": "where we have used the Rellich estimate (7.20) for the last inequality."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.9)",
+    "page": 29,
+    "bbox_abs": [
+      72.0,
+      495.75,
+      315.68,
+      506.66
+    ],
+    "bbox_norm": [
+      0.117648,
+      0.625947,
+      0.398164,
+      0.013774
+    ],
+    "snippet": "where we have used (8.9) for the last inequality."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.20)",
+    "page": 29,
+    "bbox_abs": [
+      72.0,
+      624.89,
+      540.0,
+      635.8
+    ],
+    "bbox_norm": [
+      0.117648,
+      0.789004,
+      0.764701,
+      0.013774
+    ],
+    "snippet": "where we have used the Rellich estimate (7.20) with \u2113 = 0 for the last step. In view of Lemma 8.1,"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.11)",
+    "page": 29,
+    "bbox_abs": [
+      512.12,
+      651.99,
+      539.99,
+      662.9
+    ],
+    "bbox_norm": [
+      0.8368,
+      0.823219,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(8.11)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.8)",
+    "page": 29,
+    "bbox_abs": [
+      88.94,
+      671.66,
+      244.29,
+      682.57
+    ],
+    "bbox_norm": [
+      0.145321,
+      0.848054,
+      0.25385,
+      0.013774
+    ],
+    "snippet": "Finally, to prove (8.8), note that"
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 8.3",
+    "page": 30,
+    "bbox_abs": [
+      72.0,
+      177.7,
+      540.02,
+      416.2
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.224372,
+      0.764742,
+      0.301133
+    ],
+    "snippet": "Theorem 8.3. Let u \u2208 C2(\u2126; C) be a solution of the Dirichlet problem, (D + A)2u = 0 in \u2126 and u = f on \u2202\u2126. (8.12) Let v(x) = |(D + A)u(x)| + m(x, B)|u(x)|. Then \u2225(v)\u2217\u2225L2(\u2202\u2126) \u2264 C \ufffd \u2225Tf\u2225L2(\u2202\u2126) + \u2225m(x, B)f\u2225L2(\u2202\u2126) \ufffd , (8.13) where C depends on C0 in (3.2) and \u2126. Proof. The proof is similar to that of Theorem 8.2, using (7.21) in the place of (7.20). 9 An approximation argument In this section we use an approximation argument to extend the results in the last section to Lipschitz domains in Rd, d \u2265 3."
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 9.1",
+    "page": 30,
+    "bbox_abs": [
+      72.0,
+      417.88,
+      540.02,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.527631,
+      0.764732,
+      0.422641
+    ],
+    "snippet": "Lemma 9.1. Let \u2126 be a bounded Lipschitz domain in Rd. There exists a sequence of smooth domains {\u2126\u2113} with uniform Lipschitz characters such that \u21261 \u2282 \u21262 \u2282 \u00b7 \u00b7 \u00b7 \u2282 \u2126\u2113 \u00b7 \u00b7 \u00b7 \u2282 \u2126 with the following properties: \u2022 There exists a sequence of homeomorphisms \u039b\u2113 : \u2202\u2126 \u2192 \u2202\u2126\u2113 such that \u039b\u2113(x) \u2192 x uniformly on \u2202\u2126 as \u2113 \u2192 \u221e. Moreover, |\u039b\u2113(x) \u2212 x| \u2264 C dist(\u039b\u2113(x), \u2202\u2126) for any x \u2208 \u2202\u2126. \u2022 The unit outward normal to \u2202\u2126\u2113, n(\u039b\u2113(x)) converges to n(x) for a.e. x \u2208 \u2202\u2126. \u2022 There are positive functions \u03c9\u2113 on \u2202\u2126 such that 0 <"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.10)",
+    "page": 30,
+    "bbox_abs": [
+      72.0,
+      74.54,
+      539.99,
+      115.25
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.094113,
+      0.764694,
+      0.051405
+    ],
+    "snippet": "where we have used (8.10) and (8.11) for the second inequality. Moreover, if \ufffdv(x) = m(x, B)u(x),"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.1)",
+    "page": 30,
+    "bbox_abs": [
+      72.0,
+      157.11,
+      480.18,
+      168.02
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.198366,
+      0.666966,
+      0.013774
+    ],
+    "snippet": "where we have used (8.1) for the first inequality and (7.20) with \u2113 = 0 for the second."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.12)",
+    "page": 30,
+    "bbox_abs": [
+      512.12,
+      203.68,
+      539.99,
+      214.59
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.257169,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(8.12)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.13)",
+    "page": 30,
+    "bbox_abs": [
+      512.12,
+      251.92,
+      539.99,
+      262.83
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.318081,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(8.13)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 30,
+    "bbox_abs": [
+      72.0,
+      276.04,
+      260.98,
+      288.59
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.348537,
+      0.308796,
+      0.01584
+    ],
+    "snippet": "where C depends on C0 in (3.2) and \u2126."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.21)",
+    "page": 30,
+    "bbox_abs": [
+      72.0,
+      298.23,
+      483.85,
+      309.14
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.376558,
+      0.672964,
+      0.013774
+    ],
+    "snippet": "Proof. The proof is similar to that of Theorem 8.2, using (7.21) in the place of (7.20)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 30,
+    "bbox_abs": [
+      72.0,
+      397.27,
+      453.44,
+      416.2
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.501607,
+      0.623262,
+      0.023898
+    ],
+    "snippet": "that B satisfies (3.2) for any B(x, r) \u2282 B(0, 4R0) and (3.6) for any x \u2208 B(0, R0)."
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 9.3",
+    "page": 31,
+    "bbox_abs": [
+      72.0,
+      467.26,
+      540.01,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.589969,
+      0.764715,
+      0.360303
+    ],
+    "snippet": "Theorem 9.3. Let u \u2208 H1(\u2126; C) be a solution of the Neumann problem (8.6) for some g \u2208 L2(\u2202\u2126; C). Let v(x) = |(D + A)u(x)| + m(x, B)|u(x)|. Then \u2225(v)\u2217\u2225L2(\u2202\u2126) + \u2225m(x, B)1/2v\u2225L2(\u2126) \u2264 C\u2225g\u2225L2(\u2202\u2126), (9.3) where C depends on C0 in (3.3), r0 and the Lipschitz character of \u2126. Proof. Let u \u2208 H1(\u2126; C) be a weak solution of (8.6) with g \u2208 L2(\u2202\u2126; C). Let {\u2126\u2113} be a sequence of smooth domains, given by Lemma 9.1. Since \u2126\u2113 \u2282 \u2126 and A \u2208 C2(\u2126; Rd), we have u \u2208 C2(\u2126\u2113; C). This allows us to apply Theorem 8.2 and (7.2"
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 9.2",
+    "page": 31,
+    "bbox_abs": [
+      72.0,
+      72.92,
+      540.01,
+      465.25
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.092074,
+      0.764718,
+      0.495361
+    ],
+    "snippet": "Lemma 9.2. Let A \u2208 C1(\u2126; Rd), where \u2126 is a bounded Lipschitz domain in Rd. Suppose that u \u2208 H1(\u2126; C) is a weak solution of the Neumann problem (8.6) for some g \u2208 L2(\u2202\u2126; C), or a weak solution of the Dirichlet problem (8.12) for some f \u2208 H1(\u2202\u2126; C). Then \u02c6 \u2202\u2126 |\u2207u(\u039b\u2113(x)) \u2212 \u2207u(x)|2dx + \u02c6 \u2202\u2126 |u(\u039b\u2113(x)) \u2212 u(x)|2dx \u2192 0 (9.1) as \u2113 \u2192 \u221e, where \u039b\u2113 is given by Lemma 9.1. Proof. We give the proof for the Neumann problem (8.6). The proof for (8.12) is similar. Since A \u2208 C1(\u2126; Rd) and u \u2208 H1(\u2126; C), we may rewri"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.6)",
+    "page": 31,
+    "bbox_abs": [
+      72.0,
+      86.47,
+      540.0,
+      106.98
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.109181,
+      0.764699,
+      0.025895
+    ],
+    "snippet": "u \u2208 H1(\u2126; C) is a weak solution of the Neumann problem (8.6) for some g \u2208 L2(\u2202\u2126; C), or a weak"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.12)",
+    "page": 31,
+    "bbox_abs": [
+      72.0,
+      100.02,
+      411.35,
+      120.53
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.126289,
+      0.554492,
+      0.025895
+    ],
+    "snippet": "solution of the Dirichlet problem (8.12) for some f \u2208 H1(\u2202\u2126; C). Then"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (9.1)",
+    "page": 31,
+    "bbox_abs": [
+      517.58,
+      131.41,
+      540.0,
+      142.32
+    ],
+    "bbox_norm": [
+      0.84572,
+      0.165917,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(9.1)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.6)",
+    "page": 31,
+    "bbox_abs": [
+      72.0,
+      183.35,
+      497.75,
+      194.25
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.231496,
+      0.695674,
+      0.013774
+    ],
+    "snippet": "Proof. We give the proof for the Neumann problem (8.6). The proof for (8.12) is similar."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.6)",
+    "page": 31,
+    "bbox_abs": [
+      88.94,
+      195.04,
+      394.9,
+      215.55
+    ],
+    "bbox_norm": [
+      0.14532,
+      0.246262,
+      0.499948,
+      0.025895
+    ],
+    "snippet": "Since A \u2208 C1(\u2126; Rd) and u \u2208 H1(\u2126; C), we may rewrite (8.6) as"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (9.2)",
+    "page": 31,
+    "bbox_abs": [
+      517.58,
+      313.75,
+      539.99,
+      324.66
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.396154,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(9.2)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (9.2)",
+    "page": 31,
+    "bbox_abs": [
+      72.0,
+      446.32,
+      307.92,
+      465.25
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.563537,
+      0.38549,
+      0.023898
+    ],
+    "snippet": "as \u2113 \u2192 \u221e, which, together with (9.2), gives (9.1)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.6)",
+    "page": 31,
+    "bbox_abs": [
+      72.0,
+      467.26,
+      539.99,
+      487.76
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.589969,
+      0.764694,
+      0.025895
+    ],
+    "snippet": "Theorem 9.3. Let u \u2208 H1(\u2126; C) be a solution of the Neumann problem (8.6) for some g \u2208"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (9.3)",
+    "page": 31,
+    "bbox_abs": [
+      517.58,
+      507.17,
+      539.99,
+      518.08
+    ],
+    "bbox_norm": [
+      0.845713,
+      0.640363,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(9.3)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.3)",
+    "page": 31,
+    "bbox_abs": [
+      72.0,
+      531.68,
+      402.93,
+      544.22
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.671307,
+      0.54074,
+      0.015841
+    ],
+    "snippet": "where C depends on C0 in (3.3), r0 and the Lipschitz character of \u2126."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.6)",
+    "page": 31,
+    "bbox_abs": [
+      72.0,
+      552.34,
+      539.98,
+      572.85
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.697395,
+      0.764677,
+      0.025895
+    ],
+    "snippet": "Proof. Let u \u2208 H1(\u2126; C) be a weak solution of (8.6) with g \u2208 L2(\u2202\u2126; C). Let {\u2126\u2113} be a sequence of"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (7.20)",
+    "page": 31,
+    "bbox_abs": [
+      72.0,
+      581.29,
+      346.78,
+      592.2
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.733951,
+      0.448984,
+      0.013774
+    ],
+    "snippet": "This allows us to apply Theorem 8.2 and (7.20) to obtain"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (9.4)",
+    "page": 31,
+    "bbox_abs": [
+      517.58,
+      605.8,
+      539.99,
+      616.71
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.764895,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(9.4)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (9.4)",
+    "page": 31,
+    "bbox_abs": [
+      72.0,
+      643.86,
+      540.01,
+      655.67
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.812948,
+      0.764714,
+      0.014912
+    ],
+    "snippet": "Thanks to Lemma 9.1, the constant C in (9.4) depends only on r0, the Lipschitz character of \u2126, and"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 31,
+    "bbox_abs": [
+      72.0,
+      657.4,
+      540.0,
+      669.95
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.830056,
+      0.764714,
+      0.01584
+    ],
+    "snippet": "C0 in (3.2). In particular, the estimate (9.4) is uniform with respect to \u2113. Using the observation"
+  },
+  {
+    "category": "theorem",
+    "label": "Theorem 9.4",
+    "page": 32,
+    "bbox_abs": [
+      72.0,
+      178.03,
+      540.03,
+      521.35
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.224784,
+      0.76476,
+      0.43349
+    ],
+    "snippet": "Theorem 9.4. Let u \u2208 H1(\u2126; C) be a solution of the Dirichlet problem (8.12) for some f \u2208 H1(\u2202\u2126; C). Let v(x) = |(D + A)u(x)| + m(x, B)|u(x)|. Then \u2225(v)\u2217\u2225L2(\u2202\u2126) + \u2225m(x, B)1/2v\u2225L2(\u2126) \u2264 C \ufffd \u2225Tf\u2225L2(\u2202\u2126) + \u2225m(x, B)f\u2225L2(\u2202\u2126) \ufffd , (9.5) where C depends on C0 in (3.3), r0 and the Lipschitz character of \u2126. Proof. The proof is similar to that of Theorem 9.3, using Theorem 8.3 in the place of Theorem 8.2. 10 Proof of Theorems 1.1 and 1.2 In this section, with Theorems 9.3 and 9.4 at our disposal, we use a loc"
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 10.1",
+    "page": 32,
+    "bbox_abs": [
+      72.0,
+      504.3,
+      540.01,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.636741,
+      0.76472,
+      0.313531
+    ],
+    "snippet": "Lemma 10.1. Suppose (10.1) holds for any x \u2208 Rdwith dist(x, \u2126) < 2r0. Then sup B(x,r) |\u2202\u03b1B| \u2264C1 r|\u03b1| B(x,r) |B| (10.2) for any B(x, r) \u2282\ufffd\u2126 and any \u03b1 with |\u03b1| \u2264 \u03ba. Moreover, sup B(x,r) |B| \u2265 c1r\u03ba (10.3) for any x \u2208 \u2126 and 0 < r < r0. The constants C1, c1 > 0 depend on \u2126, (\u03ba, c0) in (10.1) and \u2225B\u2225C\u03ba+1(\u2126). Proof. Let B(y, r) \u2282 {x \u2208 Rd: dist(x, \u2126) < 2r0}. Let Py denote the \u03bath(matrix-valued) Taylor polynomial of B at y. Then, if |\u03b1| \u2264 \u03ba, |\u2202\u03b1Py(x) \u2212 \u2202\u03b1B(x)| \u2264 C|x \u2212 y|\u03ba+1\u2212|\u03b1| 32"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (9.3)",
+    "page": 32,
+    "bbox_abs": [
+      72.0,
+      157.09,
+      351.27,
+      176.02
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.198352,
+      0.456322,
+      0.023898
+    ],
+    "snippet": "By letting \u2113 \u2192 \u221e in the inequality above, we obtain (9.3)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (8.12)",
+    "page": 32,
+    "bbox_abs": [
+      72.0,
+      178.03,
+      539.99,
+      198.54
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.224784,
+      0.764694,
+      0.025895
+    ],
+    "snippet": "Theorem 9.4. Let u \u2208 H1(\u2126; C) be a solution of the Dirichlet problem (8.12) for some f \u2208"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (9.5)",
+    "page": 32,
+    "bbox_abs": [
+      517.58,
+      217.94,
+      539.99,
+      228.85
+    ],
+    "bbox_norm": [
+      0.845712,
+      0.275177,
+      0.036631,
+      0.013774
+    ],
+    "snippet": "(9.5)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.3)",
+    "page": 32,
+    "bbox_abs": [
+      72.0,
+      242.45,
+      402.93,
+      254.99
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.306121,
+      0.54074,
+      0.015841
+    ],
+    "snippet": "where C depends on C0 in (3.3), r0 and the Lipschitz character of \u2126."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.1)",
+    "page": 32,
+    "bbox_abs": [
+      512.12,
+      403.42,
+      539.99,
+      414.33
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.509364,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(10.1)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.1)",
+    "page": 32,
+    "bbox_abs": [
+      72.0,
+      456.54,
+      540.0,
+      467.45
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.576438,
+      0.764708,
+      0.013774
+    ],
+    "snippet": "(there is no need to extend A). By compactness we may further assume that (10.1) holds for any"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.1)",
+    "page": 32,
+    "bbox_abs": [
+      72.0,
+      504.3,
+      455.15,
+      524.81
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.636741,
+      0.626057,
+      0.025895
+    ],
+    "snippet": "Lemma 10.1. Suppose (10.1) holds for any x \u2208 Rdwith dist(x, \u2126) < 2r0. Then"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.2)",
+    "page": 32,
+    "bbox_abs": [
+      512.12,
+      535.68,
+      539.99,
+      546.59
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.676369,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(10.2)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.3)",
+    "page": 32,
+    "bbox_abs": [
+      512.12,
+      595.78,
+      539.99,
+      606.69
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.752253,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(10.3)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.1)",
+    "page": 32,
+    "bbox_abs": [
+      72.0,
+      630.1,
+      539.99,
+      649.03
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.795585,
+      0.764698,
+      0.023898
+    ],
+    "snippet": "for any x \u2208 \u2126 and 0 < r < r0. The constants C1, c1 > 0 depend on \u2126, (\u03ba, c0) in (10.1) and"
+  },
+  {
+    "category": "remark",
+    "label": "Remark 10.2",
+    "page": 33,
+    "bbox_abs": [
+      72.0,
+      477.68,
+      540.0,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.603136,
+      0.764713,
+      0.347136
+    ],
+    "snippet": "Remark 10.2. Suppose (10.1) holds for any x \u2208 Rdwith dist(x, \u2202\u2126) < 2r0. Also assume that sup B(x,r0) |B| \u2265 2r\u22122 0 for any x \u2208 \u2126. (10.7) It follows by definition that m(x, B) > r\u22121 0 for any x \u2208 \u2126. By letting r = m(x, B)\u22121< r0 in (10.2), we see that |\u2202\u03b1B(x)| \u2264 Cm(x, B)|\u03b1|+2 for any x \u2208 \u2126 and |\u03b1| \u2264 \u03ba. As a result, we obtain m(x, B) \u2265 c \ufffd |\u03b1|\u2264\u03ba |\u2202\u03b1B(x)| 1 |\u03b1|+2 (10.8) for any x \u2208 \u2126. By definition it is not hard to see that m(x, B) \u2264 C\u2225B\u22251/2 L\u221e(\ufffd\u2126). Proof of Theorem 1.1. We first consider the case d"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.4)",
+    "page": 33,
+    "bbox_abs": [
+      512.12,
+      136.57,
+      539.99,
+      147.48
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.172442,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(10.4)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.5)",
+    "page": 33,
+    "bbox_abs": [
+      512.12,
+      252.23,
+      539.99,
+      263.13
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.318466,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(10.5)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.1)",
+    "page": 33,
+    "bbox_abs": [
+      72.0,
+      308.01,
+      396.98,
+      318.92
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.388897,
+      0.531016,
+      0.013774
+    ],
+    "snippet": "where we have used (10.1) for the last step. As a result, we see that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.6)",
+    "page": 33,
+    "bbox_abs": [
+      512.12,
+      337.54,
+      539.99,
+      348.45
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.426183,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(10.6)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.3)",
+    "page": 33,
+    "bbox_abs": [
+      72.0,
+      369.56,
+      540.01,
+      380.47
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.466614,
+      0.764723,
+      0.013774
+    ],
+    "snippet": "if 0 < r < c and c is sufficiently small. This gives (10.3). Together with (10.4), it also yields (10.2)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.2)",
+    "page": 33,
+    "bbox_abs": [
+      72.0,
+      383.11,
+      539.99,
+      394.02
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.483722,
+      0.764696,
+      0.013774
+    ],
+    "snippet": "under the additional condition 0 < r < c. Note that the inequality (10.2) with \u03b1 = 0 and 0 < r < c"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.2)",
+    "page": 33,
+    "bbox_abs": [
+      72.0,
+      441.62,
+      540.02,
+      462.13
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.557599,
+      0.764732,
+      0.025895
+    ],
+    "snippet": "for any B(x, 4r) \u2282 {x \u2208 Rd: dist(x, \u2126) < 2r0}. The general case for (10.2) follows by a covering"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.1)",
+    "page": 33,
+    "bbox_abs": [
+      72.0,
+      477.68,
+      522.69,
+      498.19
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.603136,
+      0.736418,
+      0.025895
+    ],
+    "snippet": "Remark 10.2. Suppose (10.1) holds for any x \u2208 Rdwith dist(x, \u2202\u2126) < 2r0. Also assume that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.7)",
+    "page": 33,
+    "bbox_abs": [
+      512.12,
+      504.05,
+      539.99,
+      514.96
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.636422,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(10.7)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.2)",
+    "page": 33,
+    "bbox_abs": [
+      277.45,
+      536.74,
+      540.0,
+      557.38
+    ],
+    "bbox_norm": [
+      0.453351,
+      0.677702,
+      0.429009,
+      0.026061
+    ],
+    "snippet": "for any x \u2208 \u2126. By letting r = m(x, B)\u22121< r0 in (10.2),"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.8)",
+    "page": 33,
+    "bbox_abs": [
+      512.12,
+      613.44,
+      539.99,
+      624.35
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.774541,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(10.8)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.2)",
+    "page": 33,
+    "bbox_abs": [
+      72.0,
+      679.62,
+      418.56,
+      698.55
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.858108,
+      0.56628,
+      0.023898
+    ],
+    "snippet": "Proof of Theorem 1.1. We first consider the case d \u2265 3. Rewrite (1.2) as"
+  },
+  {
+    "category": "lemma",
+    "label": "Lemma 10.1",
+    "page": 34,
+    "bbox_abs": [
+      72.0,
+      151.48,
+      540.02,
+      752.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.191263,
+      0.764745,
+      0.759009
+    ],
+    "snippet": "Lemma 10.1, there exists c > 0, depending only on \u2126, (\u03ba, c0) in (10.1) and \u2225B\u2225C\u03ba+1(\u2126) such that B(x,r) |B| \u2265 cr\u03ba for any x \u2208 \u2126 and 0 < r < r0. This implies that sup B(x,r) |\u03b2B| \u2265 c\u03b2r\u03ba. (10.9) for any x \u2208 \u2126 and 0 < r < r0, where c > 0 depends only on \u2126, (\u03ba, c0) in (10.1) and \u2225B\u2225C\u03ba+1(\u2126). Next, we fix x0 \u2208 \u2202\u2126 and consider a family of Lipschitz domains Ot = \u2126 \u2229 B(x0, tr0), where t \u2208 (c, 2c) and c > 0 is sufficiently small. Let R0 = 2cr0. Note that Ot \u2282 B(x0, R0), \u03b2B satisfies (3.2) for any B(x, r) \u2282"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.1)",
+    "page": 34,
+    "bbox_abs": [
+      72.0,
+      151.48,
+      532.59,
+      170.41
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.191263,
+      0.752592,
+      0.023898
+    ],
+    "snippet": "Lemma 10.1, there exists c > 0, depending only on \u2126, (\u03ba, c0) in (10.1) and \u2225B\u2225C\u03ba+1(\u2126) such that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.9)",
+    "page": 34,
+    "bbox_abs": [
+      512.12,
+      240.38,
+      539.99,
+      251.29
+    ],
+    "bbox_norm": [
+      0.836799,
+      0.303512,
+      0.045544,
+      0.013774
+    ],
+    "snippet": "(10.9)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.1)",
+    "page": 34,
+    "bbox_abs": [
+      72.0,
+      274.16,
+      528.31,
+      293.08
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.346156,
+      0.7456,
+      0.023898
+    ],
+    "snippet": "for any x \u2208 \u2126 and 0 < r < r0, where c > 0 depends only on \u2126, (\u03ba, c0) in (10.1) and \u2225B\u2225C\u03ba+1(\u2126)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.2)",
+    "page": 34,
+    "bbox_abs": [
+      72.0,
+      315.91,
+      337.53,
+      334.83
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.398872,
+      0.433878,
+      0.023898
+    ],
+    "snippet": "(3.2) for any B(x, r) \u2282 B(x0, 4R0). Moreover, by (10.9),"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.10)",
+    "page": 34,
+    "bbox_abs": [
+      506.67,
+      399.29,
+      539.99,
+      410.2
+    ],
+    "bbox_norm": [
+      0.827886,
+      0.504158,
+      0.054456,
+      0.013774
+    ],
+    "snippet": "(10.10)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.10)",
+    "page": 34,
+    "bbox_abs": [
+      72.0,
+      436.53,
+      540.01,
+      455.46
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.551179,
+      0.764718,
+      0.023898
+    ],
+    "snippet": "of v with respect to the domain Ot. We point out that the constant C in (10.10) does not depend"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.11)",
+    "page": 34,
+    "bbox_abs": [
+      506.67,
+      706.26,
+      539.99,
+      717.17
+    ],
+    "bbox_norm": [
+      0.827886,
+      0.891742,
+      0.054456,
+      0.013774
+    ],
+    "snippet": "(10.11)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (4.14)",
+    "page": 35,
+    "bbox_abs": [
+      72.0,
+      197.56,
+      540.03,
+      208.47
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.249446,
+      0.76476,
+      0.013774
+    ],
+    "snippet": "where we have used the interior estimate (4.14) for the first inequality and (3.12) for the second."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.11)",
+    "page": 35,
+    "bbox_abs": [
+      72.0,
+      252.33,
+      244.9,
+      263.24
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.318604,
+      0.282514,
+      0.013774
+    ],
+    "snippet": "This, together with (10.11), leads to"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.12)",
+    "page": 35,
+    "bbox_abs": [
+      506.67,
+      283.17,
+      539.99,
+      294.08
+    ],
+    "bbox_norm": [
+      0.827887,
+      0.357543,
+      0.054456,
+      0.013774
+    ],
+    "snippet": "(10.12)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.12)",
+    "page": 35,
+    "bbox_abs": [
+      72.0,
+      510.71,
+      260.77,
+      521.62
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.644837,
+      0.30845,
+      0.013774
+    ],
+    "snippet": "In view of (10.12), we have proved that"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.13)",
+    "page": 35,
+    "bbox_abs": [
+      506.67,
+      554.52,
+      539.99,
+      565.43
+    ],
+    "bbox_norm": [
+      0.827887,
+      0.70015,
+      0.054456,
+      0.013774
+    ],
+    "snippet": "(10.13)"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.6)",
+    "page": 35,
+    "bbox_abs": [
+      207.37,
+      659.34,
+      540.01,
+      678.27
+    ],
+    "bbox_norm": [
+      0.338847,
+      0.832505,
+      0.543522,
+      0.023898
+    ],
+    "snippet": "0. The desired estimates (1.6)-(1.7) for h \u2208 (0, h0) now follow from"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.13)",
+    "page": 35,
+    "bbox_abs": [
+      72.0,
+      672.89,
+      307.96,
+      691.82
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.849613,
+      0.38556,
+      0.023898
+    ],
+    "snippet": "(10.13). Note that by Remark 10.2, if h \u2208 (0, h0),"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (10.1)",
+    "page": 36,
+    "bbox_abs": [
+      72.0,
+      74.5,
+      391.13,
+      93.43
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.094071,
+      0.52146,
+      0.023898
+    ],
+    "snippet": "where C, c > 0 depend only on \u2126, (\u03ba, c0) in (10.1) and \u2225B\u2225C\u03ba+1(\u2126)."
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.2)",
+    "page": 36,
+    "bbox_abs": [
+      72.0,
+      102.04,
+      540.0,
+      122.55
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.128835,
+      0.764709,
+      0.025895
+    ],
+    "snippet": "solution of the Neumann problem (1.2) with boundary data g \u2208 L2(\u2202\u2126; C) in a two-dimensional"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.3)",
+    "page": 36,
+    "bbox_abs": [
+      72.0,
+      287.33,
+      540.0,
+      307.84
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.362791,
+      0.764701,
+      0.025895
+    ],
+    "snippet": "solution of the Dirichlet problem (1.3) with boundary data f \u2208 H1(\u2202\u2126; C) in a two-dimensional"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (3.12)",
+    "page": 36,
+    "bbox_abs": [
+      72.0,
+      460.0,
+      252.75,
+      470.91
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.580808,
+      0.295348,
+      0.013774
+    ],
+    "snippet": "where we have used (3.12). Moreover,"
+  },
+  {
+    "category": "equation",
+    "label": "Equation (1.8)",
+    "page": 36,
+    "bbox_abs": [
+      72.0,
+      636.69,
+      540.0,
+      655.61
+    ],
+    "bbox_norm": [
+      0.117647,
+      0.803897,
+      0.764708,
+      0.023898
+    ],
+    "snippet": "By choosing \u03b5 small so that C\u03b5 \u2264 (1/2), we obtain (1.8). The estimate (1.9) follows in a similar"
+  }
+]
